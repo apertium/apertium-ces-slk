@@ -1,5 +1,6 @@
 * text=auto !eol
 /AUTHORS -text
+/COPYING -text
 /ChangeLog -text
 /Makefile.am -text
 /NEWS -text
@@ -19,5 +20,6 @@
 /apertium-ces-slk.slk.acx -text
 /apertium-ces-slk.slk.dix -text
 /apertium-ces-slk.slk.tsx -text
+/autogen.sh -text
 /configure.ac -text
 /modes.xml -text
