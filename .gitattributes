@@ -1,0 +1,23 @@
+* text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-cs-sk.cs-sk.dix -text
+/apertium-cs-sk.cs-sk.t1x -text
+/apertium-cs-sk.cs-sk.t2x -text
+/apertium-cs-sk.cs-sk.t3x -text
+/apertium-cs-sk.cs.acx -text
+/apertium-cs-sk.cs.dix -text
+/apertium-cs-sk.cs.tsx -text
+/apertium-cs-sk.post-cs.dix -text
+/apertium-cs-sk.post-sk.dix -text
+/apertium-cs-sk.sk-cs.t1x -text
+/apertium-cs-sk.sk-cs.t2x -text
+/apertium-cs-sk.sk-cs.t3x -text
+/apertium-cs-sk.sk.acx -text
+/apertium-cs-sk.sk.dix -text
+/apertium-cs-sk.sk.tsx -text
+/configure.ac -text
+/modes.xml -text
