@@ -10,7 +10,6 @@
 /apertium-ces-slk.ces-slk.t2x -text
 /apertium-ces-slk.ces-slk.t3x -text
 /apertium-ces-slk.ces.acx -text
-/apertium-ces-slk.ces.dix -text
 /apertium-ces-slk.ces.tsx -text
 /apertium-ces-slk.post-ces.dix -text
 /apertium-ces-slk.post-slk.dix -text
@@ -18,7 +17,6 @@
 /apertium-ces-slk.slk-ces.t2x -text
 /apertium-ces-slk.slk-ces.t3x -text
 /apertium-ces-slk.slk.acx -text
-/apertium-ces-slk.slk.dix -text
 /apertium-ces-slk.slk.tsx -text
 /autogen.sh -text
 /configure.ac -text
