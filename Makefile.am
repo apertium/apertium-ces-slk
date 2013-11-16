@@ -10,7 +10,7 @@ TARGETS_COMMON = $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 	$(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
 	$(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin \
 	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin $(PREFIX1).mode modes 
+	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin $(PREFIX1).mode modes
 
 $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -85,7 +85,7 @@ $(PREFIX1).mode: modes.xml
 clean-dicts:
 	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
 	rm $(BASENAME).$(LANG1).dix
-	
+
 apertium_ces_slkmodesdir=$(prefix)/share/apertium/modes/
 apertium_ces_slkdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_ces_slk_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
@@ -101,7 +101,7 @@ apertium_ces_slk_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFIX1).autopgen.bin \
 		    $(PREFIX1).mode \
 		    $(PREFIX2).mode
-		  
+
 install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	test -d $(DESTDIR)$(apertium_ces_slkmodesdir) || mkdir $(DESTDIR)$(apertium_ces_slkmodesdir)
@@ -111,4 +111,4 @@ install-data-local:
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_ces_slkdir)
 
 
-CLEANFILES = -r $(TARGETS_COMMON) 
+CLEANFILES = -r $(TARGETS_COMMON)
