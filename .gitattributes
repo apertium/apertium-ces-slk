@@ -20,4 +20,5 @@
 /apertium-ces-slk.slk.tsx -text
 /autogen.sh -text
 /configure.ac -text
+dev/slk-ces.europarl.txt -text
 /modes.xml -text

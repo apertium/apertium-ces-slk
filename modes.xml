@@ -31,6 +31,35 @@
     </pipeline>
   </mode>
 
+
+  <mode name="ces-slk-debug" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ces-slk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ces-slk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-ces-slk.ces-slk.t1x"/>
+        <file name="ces-slk.t1x.bin"/>
+        <file name="ces-slk.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ces-slk.ces-slk.t2x"/>
+        <file name="ces-slk.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ces-slk.ces-slk.t3x"/>
+        <file name="ces-slk.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="ces-slk.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
   <mode name="ces-slk-anmor">
     <pipeline>
       <program name="lt-proc">
