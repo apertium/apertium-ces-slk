@@ -1,11 +1,7 @@
-#                                               -*- Autoconf -*-
-# Process this file with autoconf to produce a configure script.
-
-
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-ces-slk], [0.0.1], [jimregan@users.sourceforge.net])
-AM_INIT_AUTOMAKE([apertium-ces-slk], [0.0.1], no-define)
+AC_INIT([apertium-ces-slk], [0.1.0], [jimregan@users.sourceforge.net])
+AM_INIT_AUTOMAKE([apertium-ces-slk], [0.1.0], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
@@ -33,10 +29,11 @@ then
   AC_MSG_ERROR([You don't have cg-proc installed.])
 fi
 
-                          
 m4_ifdef([AP_CHECK_LING],[],[AC_MSG_ERROR([AP_CHECK_LING not defined, is apertium.m4 in ACLOCAL_PATH? See: http://wiki.apertium.org/wiki/Installation_troubleshooting])])
 
 AP_CHECK_LING([1], [apertium-ces])
 AP_CHECK_LING([2], [apertium-slk])
+
+AP_MKINCLUDE
 
 AC_OUTPUT([Makefile])

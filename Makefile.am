@@ -1,4 +1,3 @@
-VERSION=0.1.0
 LANG1=ces
 LANG2=slk
 PREFIX1=$(LANG1)-$(LANG2)
@@ -12,6 +11,8 @@ TARGETS_COMMON = $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 	$(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin \
 	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
 	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin
+
+@ap_include@
 
 $(PREFIX2).autogen.bin: $(AP_SRC1)/apertium-$(LANG1).$(LANG1).dix
 	apertium-validate-dictionary $<
@@ -75,17 +76,6 @@ $(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
 $(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
 	cp $< $@
 
-###############################################################################
-## Translation modes
-###############################################################################
-
-# All modes are created by this one goal
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-
 EXTRA_DIST=$(BASENAME).$(PREFIX1).dix \
            $(BASENAME).$(LANG1).tsx \
            $(BASENAME).$(LANG2).tsx  \
@@ -95,7 +85,6 @@ EXTRA_DIST=$(BASENAME).$(PREFIX1).dix \
            modes.xml
 
 
-apertium_modesdir=$(prefix)/share/apertium/modes/
 apertium_ces_slkdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 
 apertium_ces_slk_DATA=$(TARGETS_COMMON) \
@@ -105,20 +94,12 @@ apertium_ces_slk_DATA=$(TARGETS_COMMON) \
 noinst_DATA=modes/$(PREFIX1).mode
 
 
-install-data-local:
-	mv modes modes.bak
-	$(prefix)/bin/apertium-gen-modes modes.xml $(BASENAME)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	modes=`xmllint --xpath '//mode[@install="yes"]/@name' modes.xml | sed 's/ *name="\([^"]*\)"/\1.mode /g'`; \
-		$(INSTALL_DATA) $$modes $(DESTDIR)$(apertium_nn_modesdir); \
-		rm $$modes
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_ces_slkdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_ces_slkdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_ces_slkdir)
 
 
 CLEANFILES = $(TARGETS_COMMON)
-clean-local: 
-	-rm -rf .deps modes
+clean-local:
+	-rm -rf .deps
