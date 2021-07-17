@@ -1,0 +1,276 @@
+[-Af2bUIOFudE#0] ^@Kolik<prn><ind><mf><pl><nom>$ ^prst<n><mi><pl><gen>$ ^@vidět<vblex><impf><pres><p2><sg>$^?<sent>$
+[/-Af2bUIOFudE]
+[-gBi9Rx0sAzZ#0] ^*Brat$ ^A<cnjcoo>$ ^*sestra$ ^sa<prn><ref><dat>$ ^hrať<vblex><impf><pres><p3><pl>$^.<sent>$
+[/-gBi9Rx0sAzZ]
+[-hcsDZNw3aGy#0] ^*Chcem$^,<cm>$ ^aby<cnjsub>$ ^to<det><dem><nt><sg><acc>$ ^*vedeli$^.<sent>$
+[/-hcsDZNw3aGy]
+[0ef16EKmHGDi#0] ^Bílý<adj><sint><f><sg><voc>$ ^kost<n><f><sg><voc>$
+[/0ef16EKmHGDi]
+[14LVDIuvTS-m#0] ^*jesenného$ ^*lístia$
+[/14LVDIuvTS-m]
+[1JddPBlCFlFR#0] ^*Odkiaľ$ ^*prichádzaš$^?<sent>$
+[/1JddPBlCFlFR]
+[1zt75myxRdaa#0] ^@Prpers<prn><p1><mf><pl><nom>$ ^*sme$ ^*študenti$^.<sent>$
+[/1zt75myxRdaa]
+[2hh7VOLQSPgT#0] ^*Jún$
+[/2hh7VOLQSPgT]
+[2qgDgXKAzbh5#0] ^*biela$ ^*kosť$
+[/2qgDgXKAzbh5]
+[3FEDAOmNzvRA#0] ^*Pozri$ ^*sa$ ^Na<pr>$ ^@prpers<prn><ppr><p3><nt><sg><acc>$^.<sent>$
+[/3FEDAOmNzvRA]
+[3jVhpPdwt8zX#0] ^@Prpers<prn><p3><m><sg><nom>$ ^byť<vbser><pres><p3><sg>$ ^*študent$^.<sent>$
+[/3jVhpPdwt8zX]
+[4J4fV8SrRjct#0] ^September<n><mi><pl><nom>$
+[/4J4fV8SrRjct]
+[6Zq9Jy95blbp#0] ^Byť<vbser><cni><p1><ma><pl>$ ^*rádi$^,<cm>$ ^keby<cnjsub>+byť<vbser><pres><p2><sg>$ ^chcieť<vblex><impf><past><f><sg>$ ^*prijít$^.<sent>$
+[/6Zq9Jy95blbp]
+[8Cs-0Cm1NfxH#0] ^Bílý<adj><sint><mi><sg><voc>$ ^*sníh$
+[/8Cs-0Cm1NfxH]
+[8q-992jAc0Je#0] ^*Zomrel$ ^@Tak<adv>$^,<cm>$ ^*ako$ ^žiť<vblex><impf><past><m><sg>$^.<sent>$
+[/8q-992jAc0Je]
+[A4v4bzHGmD4e#0] ^@Prpers<prn><p3><ma><pl><nom>$ ^byť<vbser><pres><p3><pl>$ ^student<n><ma><pl><nom>$
+[/A4v4bzHGmD4e]
+[AdsakTmPlgSc#0] ^*Peniaze$^,<cm>$ ^*alebo$ ^život<n><mi><sg><acc>$^!<sent>$
+[/AdsakTmPlgSc]
+[B9WDEQUQEAs1#0] ^*Mna$ ^To<det><dem><nt><sg><acc>$ ^*nezaujíma$^.<sent>$
+[/B9WDEQUQEAs1]
+[BSa8SQlFPAY2#0] ^*Chcel$ ^By<cnjsub>$ ^*som$^,<cm>$ ^ale<cnjcoo>$ ^*nemôžem$^.<sent>$
+[/BSa8SQlFPAY2]
+[BeEwFwQlYIAo#0] ^*Zemřel$ ^@Tak<adv>$^,<cm>$ ^ako<rel><adv>$ ^žiť<vblex><impf><past><m><sg>$^.<sent>$
+[/BeEwFwQlYIAo]
+[DWKq6z6RyaUI#0] ^*belší$ ^*sneh$
+[/DWKq6z6RyaUI]
+[DyqSVeDDnN4M#0] ^Až<cnjsub>$ ^opadať<vblex><impf><pres><p3><sg>$ ^@listí<n><mi><sg><voc>$ ^z<pr>$ ^dub<n><mi><sg><dat>$^.<sent>$
+[/DyqSVeDDnN4M]
+[E22VoxR8LWju#0] ^*najbelší$ ^*sneh$
+[/E22VoxR8LWju]
+[EINJFIlby5Cl#0] ^Byť<vbser><past><PD><f><sg>$ ^@tam<adv>$ ^zima<n><f><sg><nom>$^,<cm>$ ^@dokonce<adv>$ ^@sněžit<vblex><impf><past><nt><sg>$^.<sent>$
+[/EINJFIlby5Cl]
+[Ew6dBFzxhw7f#0] ^*Podívej$ ^Sa<prn><ref><acc>$ ^na<pr>$ ^nej<adv>$^.<sent>$
+[/Ew6dBFzxhw7f]
+[FWThQsziKT6f#0] ^*cudzie$ ^Oko<n><nt><sg><nom>$
+[/FWThQsziKT6f]
+[HxqiFD6fR2Eo#0] ^Starý<adj><sint><mi><pl><voc>$ ^stroj<n><mi><pl><voc>$
+[/HxqiFD6fR2Eo]
+[I0xxVxMswp3k#0] ^*Tohle$ ^@Prpers<prn><p3><mf><pl><acc>$ ^môj<det><pos><nt><pl><acc>$ ^kočka<n><f><pl><acc>$^.<sent>$
+[/I0xxVxMswp3k]
+[IPG22wHtZTnu#0] ^@Prpers<prn><p1><mf><sg><nom>$ ^ne<adv>$ ^byť<vbser><pres><p1><sg>$ ^lékař<n><ma><sg><nom>$^.<sent>$
+[/IPG22wHtZTnu]
+[Ib4ppe1CB9fe#0] ^@Prpers<prn><p1><mf><sg><nom>$ ^by<cnjsub>+byť<vbser><pres><p1><sg>$ ^*tyhle$ ^internet<n><mi><pl><ins>$ ^@zakázat<vblex><perf><past><PD><nt><pl>$^.<sent>$
+[/Ib4ppe1CB9fe]
+[Iok1uIYYzzHy#0] ^Jún<n><mi><sg><nom>$
+[/Iok1uIYYzzHy]
+[J5JOjETnbXso#0] ^*Keď$ ^@Prpers<prn><p3><nt><sg><acc>$ ^*uvideli$^,<cm>$ ^*bežali$ ^*okamžite$ ^*preč$^.<sent>$
+[/J5JOjETnbXso]
+[Jh-CyIyQHQGZ#0] ^*Marec$
+[/Jh-CyIyQHQGZ]
+[KTNOFuyiSk-O#0] ^Kámen<n><mi><sg><nom>$ ^@prpers<prn><p3><mf><pl><acc>$ ^môj<det><pos><mi><sg><nom>$^.<sent>$
+[/KTNOFuyiSk-O]
+[KeKpW3oMv9Nk#0] ^@Pracovat<vblex><impf><past><m><sg>$ ^@Tam<adv>$ ^*len$ ^*niekoľko$ ^den<n><mi><pl><gen>$^.<sent>$
+[/KeKpW3oMv9Nk]
+[KwVSB0QDaVXA#0] ^To<det><dem><nt><sg><acc>$ ^*sú$ ^@prpers<prn><p3><ma><pl><nom>$^.<sent>$
+[/KwVSB0QDaVXA]
+[Ky4uitjmyl84#0] ^*Ja$ ^*nie$ ^*som$ ^*lekár$^.<sent>$
+[/Ky4uitjmyl84]
+[L2SrytxJUuio#0] ^*Brat$ ^A<cnjcoo>$ ^*sestra$ ^*sa$ ^*hrajú$^.<sent>$
+[/L2SrytxJUuio]
+[LY3XK0t3CxrT#0] ^Cizí<adj><nt><sg><nom>$ ^oko<n><nt><sg><nom>$
+[/LY3XK0t3CxrT]
+[LlZgiG3DUVf6#0] ^Kniha<n><f><sg><nom>$ ^@prpers<prn><p3><mf><pl><acc>$ ^*čtena$^.<sent>$
+[/LlZgiG3DUVf6]
+[MKZUdJqJ4Oz7#0] ^To<det><dem><nt><sg><acc>$ ^byť<vbser><pres><p3><pl>$ ^@prpers<prn><p3><ma><pl><nom>$^.<sent>$
+[/MKZUdJqJ4Oz7]
+[Mu58KCyZv9O1#0] ^*napr$^.<sent>$
+[/Mu58KCyZv9O1]
+[N4RgjX1Z0c0T#0] ^@Pracovat<vblex><impf><past><m><sg>$ ^@Tam<adv>$ ^jen<adv>$ ^@několik<prn><ind><mf><pl><nom>$ ^den<n><mi><pl><gen>$^.<sent>$
+[/N4RgjX1Z0c0T]
+[NU1TyUz8gb8E#0] ^*Boli$ ^By<cnjsub>$ ^*sme$ ^*radi$^,<cm>$ ^*keby$ ^sa<prn><ref><dat>$ ^*chcela$ ^*prísť$^.<sent>$
+[/NU1TyUz8gb8E]
+[Nm9Bl3DqGsih#0] ^Až<cnjsub>$ ^opadať<vblex><impf><pres><p3><sg>$ ^*lístie$ ^z<pr>$ ^dub<n><mi><sg><dat>$^.<sent>$
+[/Nm9Bl3DqGsih]
+[Olf4fIuWDY3r#0] ^Starý<adj><sint><mi><sg><nom>$ ^stroj<n><mi><sg><nom>$
+[/Olf4fIuWDY3r]
+[P4SWsd6akakJ#0] ^@Pracovat<vblex><impf><pres><p1><sg>$^,<cm>$ ^aby<cnjsub>+byť<vbser><pres><p1><sg>$ ^žiť<vblex><impf><past><m><sg>$^.<sent>$
+[/P4SWsd6akakJ]
+[P6d4C26TdDrq#0] ^@Špenát<n><mi><sg><nom>$ ^*som$ ^*neznášal$^.<sent>$
+[/P6d4C26TdDrq]
+[RA58QGf1cClo#0] ^*Jem$ ^A<cnjcoo>$ ^*spím$^.<sent>$
+[/RA58QGf1cClo]
+[RYT60O3xy79h#0] ^*Ja$ ^By<cnjsub>$ ^*som$ ^*tieto$ ^internet<n><mi><pl><nom>$ ^@zakázat<vblex><perf><past><PD><nt><pl>$^.<sent>$
+[/RYT60O3xy79h]
+[RkdKHYt0qmES#0] ^*jesenného$ ^@Listí<n><mi><sg><nom>$
+[/RkdKHYt0qmES]
+[Rm09SOolRGcG#0] ^Keď<cnjsub>$ ^*jej$ ^*uviděli$^,<cm>$ ^*běželi$ ^*horempádem$ ^@pryč<adv>$^.<sent>$
+[/Rm09SOolRGcG]
+[SKcjjO7IlmLI#0] ^Chcieť<vblex><impf><pres><p1><sg>$^,<cm>$ ^aby<cnjsub>$ ^to<det><dem><nt><sg><acc>$ ^*vědeli$^.<sent>$
+[/SKcjjO7IlmLI]
+[SY-dP0VirBbB#0] ^Ako<rel><adv>$ ^*jse$ ^@jmenovat<vblex><impf><pres><p2><sg>$^?<sent>$
+[/SY-dP0VirBbB]
+[SjXvUqsZuLId#0] ^*biele$ ^Kost<n><f><pl><nom>$
+[/SjXvUqsZuLId]
+[Slf5J7pYzY3d#0] ^Odkiaľ<rel><adv>$ ^@přicházet<vblex><impf><pres><p2><sg>$^?<sent>$
+[/Slf5J7pYzY3d]
+[TCRklLqasaGS#0] ^@Bola<n><f><sg><nom>$ ^@tam<adv>$ ^zima<n><f><sg><nom>$^,<cm>$ ^*dokonca$ ^*snežilo$^.<sent>$
+[/TCRklLqasaGS]
+[UJqZO6LusKmx#0] ^Prečo<rel><adv>$ ^*pláčeš$^?<sent>$
+[/UJqZO6LusKmx]
+[UXV-aHC88w9X#0] ^Silný<adj><sint><ma><sg><nom>$ ^chlap<n><ma><sg><nom>$
+[/UXV-aHC88w9X]
+[UmEvtOt_lUCJ#0] ^@Prpers<prn><p3><f><pl><nom>$ ^žiť<vblex><impf><pres><p3><pl>$ ^@spokojeně<adv><sint>$^.<sent>$
+[/UmEvtOt_lUCJ]
+[V6PaWJoqBQzF#0] ^Chcieť<vblex><impf><past><m><sg>$ ^By<cnjsub>+byť<vbser><pres><p1><sg>$^,<cm>$ ^ale<cnjcoo>$ ^ne<adv>$ ^@moci<vaux><impf><pres><p1><sg>$^.<sent>$
+[/V6PaWJoqBQzF]
+[VYpr0Oceemul#0] ^*pena$ ^Z<pr>$ ^vaječný<adj><sint><nt><pl><gen>$ ^*bielkov$
+[/VYpr0Oceemul]
+[VpuZxpgRCqD1#0] ^Február<n><mi><sg><nom>$
+[/VpuZxpgRCqD1]
+[X2q269sBuTwT#0] ^Marec<n><mi><sg><nom>$
+[/X2q269sBuTwT]
+[XOYUVJCl1tuj#0] ^*cudzie$ ^Oko<n><nt><pl><nom>$
+[/XOYUVJCl1tuj]
+[YyLjZLoEXt_W#0] ^@Prpers<prn><p2><mf><pl><nom>$ ^byť<vbser><pres><p2><pl>$ ^student<n><ma><pl><voc>$^.<sent>$
+[/YyLjZLoEXt_W]
+[__9vjVaCUJyK#0] ^@Prpers<prn><p3><m><sg><nom>$ ^*nie$ ^@prpers<prn><p3><mf><pl><acc>$ ^*lekár$^.<sent>$
+[/__9vjVaCUJyK]
+[cZrzzCOZkYRB#0] ^*Ako$ ^*sa$ ^volať<vblex><impf><pres><p2><sg>$^?<sent>$
+[/cZrzzCOZkYRB]
+[dHHCdauC6K3R#0] ^*jesenní$ ^@Listí<n><mi><sg><nom>$
+[/dHHCdauC6K3R]
+[dbzEE86qtUZa#0] ^*veľké$ ^*mestá$
+[/dbzEE86qtUZa]
+[eS2PM7RGGrwy#0] ^@Prpers<prn><p2><mf><pl><nom>$ ^*ste$ ^*študenti$^.<sent>$
+[/eS2PM7RGGrwy]
+[f6IwiRnQSSW_#0] ^Júl<n><mi><sg><nom>$
+[/f6IwiRnQSSW_]
+[fGAeWSMgnzAe#0] ^@Prpers<prn><p1><mf><pl><nom>$ ^byť<vbser><pres><p1><pl>$ ^student<n><ma><pl><voc>$^.<sent>$
+[/fGAeWSMgnzAe]
+[fwhH_IJjrqWa#0] ^@Prpers<prn><p1><mf><sg><nom>$ ^byť<vbser><pres><p1><sg>$ ^student<n><ma><sg><nom>$^.<sent>$
+[/fwhH_IJjrqWa]
+[gOITirEgedMm#0] ^Milovať<vblex><impf><pres><p1><sg>$ ^@Prpers<prn><p2><mf><sg><gen>$^.<sent>$
+[/gOITirEgedMm]
+[gqmlDccEkyxG#0] ^*Ja$ ^*som$ ^*študent$^.<sent>$
+[/gqmlDccEkyxG]
+[gzDoUj8JWU40#0] ^@např<abbr>$^.<sent>$
+[/gzDoUj8JWU40]
+[hHydHNlHExAq#0] ^*Čo$ ^To<det><dem><nt><sg><acc>$ ^@prpers<prn><p3><mf><pl><acc>$^?<sent>$
+[/hHydHNlHExAq]
+[hjT9s7oiXNHO#0] ^Október<n><mi><sg><nom>$
+[/hjT9s7oiXNHO]
+[hkAlafmdotvh#0] ^To<det><dem><mi><pl><nom>$ ^sa<prn><ref><dat>$ ^*študent$^.<sent>$
+[/hkAlafmdotvh]
+[i57ondxD8ASa#0] ^Milovať<vblex><impf><pres><p1><pl>$ ^*ťa$^.<sent>$
+[/i57ondxD8ASa]
+[i7PyUUN3oRQ2#0] ^Apríl<n><mi><sg><nom>$
+[/i7PyUUN3oRQ2]
+[ibGGAyOIeJEp#0] ^Náš<det><pos><nt><pl><acc>$ ^problém<n><mi><pl><acc>$
+[/ibGGAyOIeJEp]
+[iuQd9P8DHu0I#0] ^*biely$ ^*sneh$
+[/iuQd9P8DHu0I]
+[j7IEykYJaEeU#0] ^*December$
+[/j7IEykYJaEeU]
+[kqPee7dP0O8d#0] ^*Pi$ ^Voda<n><f><sg><acc>$^!<sent>$
+[/kqPee7dP0O8d]
+[krxu6rnWYtbF#0] ^November<n><mi><sg><nom>$
+[/krxu6rnWYtbF]
+[l9LDgVyb-Mnc#0] ^Peniaz<n><mi><sg><voc>$^,<cm>$ ^alebo<cnjcoo>$ ^život<n><mi><sg><acc>$^!<sent>$
+[/l9LDgVyb-Mnc]
+[l_ReRvZ5MFYo#0] ^*Október$
+[/l_ReRvZ5MFYo]
+[lgiYK2znxqG3#0] ^@Apríl<n><mi><sg><nom>$
+[/lgiYK2znxqG3]
+[m7n0wv1QR3Wg#0] ^@Pracovat<vblex><impf><pres><p1><pl>$^,<cm>$ ^aby<cnjsub>$ ^*som$ ^žiť<vblex><impf><past><m><sg>$^.<sent>$
+[/m7n0wv1QR3Wg]
+[mDJk5PsW1Ux0#0] ^August<n><mi><sg><nom>$
+[/mDJk5PsW1Ux0]
+[mJp-OksSMMsY#0] ^@Buda<np><top><f><sg><ins>$ ^@pít<vblex><impf><inf>$ ^voda<n><f><sg><acc>$^.<sent>$
+[/mJp-OksSMMsY]
+[mVUCrWaGyiqp#0] ^Bílý<adj><sint><sup><f><sg><ins>$ ^*sníh$
+[/mVUCrWaGyiqp]
+[msLE5P3OgYk7#0] ^@Prpers<prn><p3><f><pl><nom>$ ^*žijú$ ^*spokojne$^.<sent>$
+[/msLE5P3OgYk7]
+[n71_NuFMlOur#0] ^Silný<adj><sint><ma><pl><voc>$ ^chlap<n><ma><pl><voc>$
+[/n71_NuFMlOur]
+[ne-lnl_wuVYk#0] ^*Kameň$ ^@Prpers<prn><p3><mf><pl><acc>$ ^*môj$^.<sent>$
+[/ne-lnl_wuVYk]
+[neb-HXJlna7G#0] ^*November$
+[/neb-HXJlna7G]
+[oE5NTyh8dQ4U#0] ^Velký<adj><sint><nt><sg><acc>$ ^město<n><nt><sg><acc>$
+[/oE5NTyh8dQ4U]
+[oNZ_t-ZaLKa0#0] ^Čo<rel><an><nt><sg>$ ^To<det><dem><nt><sg><acc>$ ^@prpers<prn><p3><mf><pl><acc>$^?<sent>$
+[/oNZ_t-ZaLKa0]
+[olpNPvi9q5AJ#0] ^To<det><dem><nt><sg><acc>$ ^*som$ ^*ja$^.<sent>$
+[/olpNPvi9q5AJ]
+[pNrPywGgcZ8U#0] ^@Pít<vblex><impf><imp><p2><sg>$ ^Voda<n><f><sg><acc>$^!<sent>$
+[/pNrPywGgcZ8U]
+[pQeULXETOn5e#0] ^To<det><dem><mi><pl><nom>$ ^byť<vbser><pres><p2><sg>$ ^student<n><ma><sg><nom>$^.<sent>$
+[/pQeULXETOn5e]
+[pYNDlxMwyMTC#0] ^@Id<n><mi><sg><ins>$ ^@tam<adv>$^,<cm>$ ^*pretože$ ^*chcem$^.<sent>$
+[/pYNDlxMwyMTC]
+[pm2JcOVpqUQj#0] ^@August<n><ma><sg><nom>$
+[/pm2JcOVpqUQj]
+[q7MuQC3QLdm1#0] ^Máj<n><mi><sg><nom>$
+[/q7MuQC3QLdm1]
+[qL2feHseWj2Q#0] ^To<det><dem><nt><sg><acc>$ ^*sme$ ^@prpers<prn><p1><mf><pl><nom>$^.<sent>$
+[/qL2feHseWj2Q]
+[qUm_2kh8yL4T#0] ^@Prpers<prn><p1><mf><sg><nom>$ ^žiť<vblex><impf><pres><p1><sg>$ ^@spokojeně<adv><sint>$^.<sent>$
+[/qUm_2kh8yL4T]
+[qhVdvTSqoReL#0] ^@Pěna<n><f><sg><nom>$ ^z<pr>$ ^vaječný<adj><sint><mi><pl><gen>$ ^@bílek<n><mi><pl><gen>$
+[/qhVdvTSqoReL]
+[qrMFB_MjgWzx#0] ^Bílý<adj><sint><comp><mi><sg><voc>$ ^*sníh$
+[/qrMFB_MjgWzx]
+[r2tgCf34Wwpc#0] ^Cizí<adj><nt><pl><nom>$ ^oko<n><nt><pl><nom>$
+[/r2tgCf34Wwpc]
+[rHg9eBOHkelw#0] ^Velký<adj><sint><nt><pl><nom>$ ^město<n><nt><pl><nom>$
+[/rHg9eBOHkelw]
+[s4Fhq0mNSRMq#0] ^*jesenné$ ^*lístie$
+[/s4Fhq0mNSRMq]
+[sdbOeu4gi3vi#0] ^To<det><dem><nt><sg><acc>$ ^byť<vbser><pres><p1><sg>$ ^@prpers<prn><p1><mf><sg><nom>$^.<sent>$
+[/sdbOeu4gi3vi]
+[sit32HcIhPY-#0] ^*Kto$ ^To<det><dem><nt><sg><acc>$ ^@prpers<prn><p3><mf><pl><acc>$^?<sent>$
+[/sit32HcIhPY-]
+[t257Os-OoU5R#0] ^@Toto<det><dem><nt><sg><acc>$ ^@prpers<prn><p3><mf><pl><acc>$ ^môj<det><pos><f><sg><nom>$ ^*mačka$^.<sent>$
+[/t257Os-OoU5R]
+[t4Mkz2PfQ3ps#0] ^*Budú$ ^*piť$ ^Voda<n><f><sg><acc>$^.<sent>$
+[/t4Mkz2PfQ3ps]
+[t5qrTcAm9zLg#0] ^Január<n><mi><sg><nom>$
+[/t5qrTcAm9zLg]
+[tYcBX-VoWkMv#0] ^*Február$
+[/tYcBX-VoWkMv]
+[tkMEN71XPF18#0] ^@Máj<n><mi><sg><nom>$
+[/tkMEN71XPF18]
+[tqI1CGfaV-Fm#0] ^Kniha<n><f><sg><nom>$ ^*sa$ ^*číta$^.<sent>$
+[/tqI1CGfaV-Fm]
+[uqfvKgMmL5Jc#0] ^@Špenát<n><mi><sg><nom>$ ^byť<vbser><pres><p1><sg>$ ^*nesnášel$^.<sent>$
+[/uqfvKgMmL5Jc]
+[us2h-OFczRer#0] ^*Ja$ ^žiť<vblex><impf><pres><p1><pl>$ ^*spokojne$^.<sent>$
+[/us2h-OFczRer]
+[vTXfrReUc-VK#0] ^*veľké$ ^*mesto$
+[/vTXfrReUc-VK]
+[vYhIopL7lw2U#0] ^*Koľko$ ^*prstov$ ^@vidět<vblex><impf><pres><p2><sg>$^?<sent>$
+[/vYhIopL7lw2U]
+[v_u9tZz1P009#0] ^December<n><mi><sg><nom>$
+[/v_u9tZz1P009]
+[vbZVHFYyMR1J#0] ^@Prpers<prn><p3><m><sg><ins>$ ^a<cnjcoo>$ ^*spím$^.<sent>$
+[/vbZVHFYyMR1J]
+[w0wAudLCo0DY#0] ^@Prpers<prn><p3><m><sg><nom>$ ^byť<vbser><pres><p3><sg>$ ^student<n><ma><sg><nom>$
+[/w0wAudLCo0DY]
+[wVLz0BvhN_69#0] ^@Jít<vblex><impf><pres><p1><sg>$ ^@Tam<adv>$^,<cm>$ ^@poněvadž<cnjadv>$ ^chcieť<vblex><impf><pres><p1><sg>$^.<sent>$
+[/wVLz0BvhN_69]
+[xA7kYi6HsCUb#0] ^Bílý<adj><sint><f><sg><nom>$ ^kost<n><f><sg><nom>$
+[/xA7kYi6HsCUb]
+[xjy1HmRLvFgp#0] ^*Júl$
+[/xjy1HmRLvFgp]
+[xkxsgpY85tkK#0] ^@Prpers<prn><p3><m><sg><nom>$ ^ne<adv>$ ^byť<vbser><pres><p3><sg>$ ^lékař<n><ma><sg><nom>$^.<sent>$
+[/xkxsgpY85tkK]
+[yTi1uyWaZqdh#0] ^*Prečo$ ^*plačeš$^?<sent>$
+[/yTi1uyWaZqdh]
+[y_tNZrkJ_pyq#0] ^@Prpers<prn><p3><ma><pl><nom>$ ^*sú$ ^*študenti$^.<sent>$
+[/y_tNZrkJ_pyq]
+[ylg7BcL6LhN7#0] ^To<det><dem><nt><sg><acc>$ ^byť<vbser><pres><p1><pl>$ ^@prpers<prn><p1><mf><pl><nom>$^.<sent>$
+[/ylg7BcL6LhN7]
+[z-NSnH38bKqD#0] ^*Január$
+[/z-NSnH38bKqD]
+[zVWeoKvKCF7x#0] ^*September$
+[/zVWeoKvKCF7x]
+[zcytftxSVoI5#0] ^@Prpers<prn><p1><mf><sg><acc>$ ^to<det><dem><nt><sg><acc>$ ^ne<adv>$ ^@zajímat<vblex><impf><pres><p3><sg>$^.<sent>$
+[/zcytftxSVoI5]

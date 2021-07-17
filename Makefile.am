@@ -88,18 +88,20 @@ EXTRA_DIST=$(BASENAME).$(PREFIX1).dix \
 apertium_ces_slkdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 
 apertium_ces_slk_DATA=$(TARGETS_COMMON) \
-		    modes.xml
+		    modes.xml \
+			$(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x \
+			$(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX2).t2x \
+			$(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t3x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
 
 install-data-local: install-modes
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_ces_slkdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_ces_slkdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_ces_slkdir)
-
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
 	-rm -rf .deps
+
+test: all
+	apertium-regtest test

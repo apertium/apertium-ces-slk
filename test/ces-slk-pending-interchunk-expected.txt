@@ -1,0 +1,276 @@
+[-Af2bUIOFudE#0] ^Nom<SN><mf><pl><nom>{^@Kolik<prn><ind><2><3><4>$}$ ^nom<SN><mi><pl><gen>{^prst<n><2><3><4>$}$ ^default<default>{^@vidět<vblex><impf><pres><p2><sg>$}$^punt<sent>{^?<sent>$}$
+[/-Af2bUIOFudE]
+[-gBi9Rx0sAzZ#0] ^unknown<unknown>{^*Brat$}$ ^Cnj<cnjcoo>{^a<cnjcoo>$}$ ^unknown<unknown>{^*sestra$}$ ^prnref<SN><dat>{^sa<prn><ref><dat>$}$ ^default<default>{^hrať<vblex><impf><pres><p3><pl>$}$^punt<sent>{^.<sent>$}$
+[/-gBi9Rx0sAzZ]
+[-hcsDZNw3aGy#0] ^unknown<unknown>{^*Chcem$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjsub>{^aby<cnjsub>$}$ ^det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^unknown<unknown>{^*vedeli$}$^punt<sent>{^.<sent>$}$
+[/-hcsDZNw3aGy]
+[0ef16EKmHGDi#0] ^Adj_nom<SN><f><sg><voc>{^bílý<adj><sint><2><3><4>$ ^kost<n><2><3><4>$}$
+[/0ef16EKmHGDi]
+[14LVDIuvTS-m#0] ^unknown<unknown>{^*jesenného$}$ ^unknown<unknown>{^*lístia$}$
+[/14LVDIuvTS-m]
+[1JddPBlCFlFR#0] ^unknown<unknown>{^*Odkiaľ$}$ ^unknown<unknown>{^*prichádzaš$}$^punt<sent>{^?<sent>$}$
+[/1JddPBlCFlFR]
+[1zt75myxRdaa#0] ^Prnpers<PRN><p1><mf><pl><nom>{^@Prpers<prn><p1><mf><pl><nom>$}$ ^unknown<unknown>{^*sme$}$ ^unknown<unknown>{^*študenti$}$^punt<sent>{^.<sent>$}$
+[/1zt75myxRdaa]
+[2hh7VOLQSPgT#0] ^unknown<unknown>{^*Jún$}$
+[/2hh7VOLQSPgT]
+[2qgDgXKAzbh5#0] ^unknown<unknown>{^*biela$}$ ^unknown<unknown>{^*kosť$}$
+[/2qgDgXKAzbh5]
+[3FEDAOmNzvRA#0] ^unknown<unknown>{^*Pozri$}$ ^unknown<unknown>{^*sa$}$ ^Na<PREP>{^na<pr>$}$ ^default<default>{^@prpers<prn><ppr><p3><nt><sg><acc>$}$^punt<sent>{^.<sent>$}$
+[/3FEDAOmNzvRA]
+[3jVhpPdwt8zX#0] ^Prnpers<PRN><p3><m><sg><nom>{^@Prpers<prn><p3><m><sg><nom>$}$ ^je<JE>{^byť<vbser><pres><p3><sg>$}$ ^unknown<unknown>{^*študent$}$^punt<sent>{^.<sent>$}$
+[/3jVhpPdwt8zX]
+[4J4fV8SrRjct#0] ^Nom<SN><mi><pl><nom>{^September<n><2><3><4>$}$
+[/4J4fV8SrRjct]
+[6Zq9Jy95blbp#0] ^Być<SV><cni><p1><ma><pl>{^Byť<vbser><2><3><4><5>$}$ ^unknown<unknown>{^*rádi$}$^coma<cm>{^,<cm>$}$ ^cnjenc<CNJ><p2><sg>{^keby<cnjsub>+byť<vbser><pres><2><3>$}$ ^default<default>{^chcieť<vblex><impf><past><f><sg>$}$ ^unknown<unknown>{^*prijít$}$^punt<sent>{^.<sent>$}$
+[/6Zq9Jy95blbp]
+[8Cs-0Cm1NfxH#0] ^Adj<SA><mi><sg><voc>{^bílý<adj><sint><2><3><4>$}$ ^unknown<unknown>{^*sníh$}$
+[/8Cs-0Cm1NfxH]
+[8q-992jAc0Je#0] ^unknown<unknown>{^*Zomrel$}$ ^Adj<ADV>{^@tak<adv>$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*ako$}$ ^default<default>{^žiť<vblex><impf><past><m><sg>$}$^punt<sent>{^.<sent>$}$
+[/8q-992jAc0Je]
+[A4v4bzHGmD4e#0] ^Prnpers<PRN><p3><ma><pl><nom>{^@Prpers<prn><p3><ma><pl><nom>$}$ ^być<SV><pres><p3><pl>{^byť<vbser><2><3><4>$}$ ^nom<SN><ma><pl><nom>{^student<n><2><3><4>$}$
+[/A4v4bzHGmD4e]
+[AdsakTmPlgSc#0] ^unknown<unknown>{^*Peniaze$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*alebo$}$ ^nom<SN><mi><sg><acc>{^život<n><2><3><4>$}$^punt<sent>{^!<sent>$}$
+[/AdsakTmPlgSc]
+[B9WDEQUQEAs1#0] ^unknown<unknown>{^*Mna$}$ ^Det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^unknown<unknown>{^*nezaujíma$}$^punt<sent>{^.<sent>$}$
+[/B9WDEQUQEAs1]
+[BSa8SQlFPAY2#0] ^unknown<unknown>{^*Chcel$}$ ^Cnj<cnjsub>{^by<cnjsub>$}$ ^unknown<unknown>{^*som$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjcoo>{^ale<cnjcoo>$}$ ^unknown<unknown>{^*nemôžem$}$^punt<sent>{^.<sent>$}$
+[/BSa8SQlFPAY2]
+[BeEwFwQlYIAo#0] ^unknown<unknown>{^*Zemřel$}$ ^Adj<ADV>{^@tak<adv>$}$^coma<cm>{^,<cm>$}$ ^default<default>{^ako<rel><adv>$}$ ^default<default>{^žiť<vblex><impf><past><m><sg>$}$^punt<sent>{^.<sent>$}$
+[/BeEwFwQlYIAo]
+[DWKq6z6RyaUI#0] ^unknown<unknown>{^*belší$}$ ^unknown<unknown>{^*sneh$}$
+[/DWKq6z6RyaUI]
+[DyqSVeDDnN4M#0] ^Cnj<cnjsub>{^Až<cnjsub>$}$ ^default<default>{^opadať<vblex><impf><pres><p3><sg>$}$ ^nom<SN><mi><sg><voc>{^@listí<n><2><3><4>$}$ ^z<PREP>{^z<pr>$}$ ^nom<SN><mi><sg><dat>{^dub<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/DyqSVeDDnN4M]
+[E22VoxR8LWju#0] ^unknown<unknown>{^*najbelší$}$ ^unknown<unknown>{^*sneh$}$
+[/E22VoxR8LWju]
+[EINJFIlby5Cl#0] ^Verb<SV><past><PD><f><sg>{^Byť<vbser><2><3><4><5>$}$ ^adj<ADV>{^@tam<adv>$}$ ^nom<SN><f><sg><nom>{^zima<n><2><3><4>$}$^coma<cm>{^,<cm>$}$ ^adj<ADV>{^@dokonce<adv>$}$ ^default<default>{^@sněžit<vblex><impf><past><nt><sg>$}$^punt<sent>{^.<sent>$}$
+[/EINJFIlby5Cl]
+[Ew6dBFzxhw7f#0] ^unknown<unknown>{^*Podívej$}$ ^Prnref<SN><acc>{^sa<prn><ref><acc>$}$ ^na<PREP>{^na<pr>$}$ ^adj<ADV>{^nej<adv>$}$^punt<sent>{^.<sent>$}$
+[/Ew6dBFzxhw7f]
+[FWThQsziKT6f#0] ^unknown<unknown>{^*cudzie$}$ ^Nom<SN><nt><sg><nom>{^oko<n><2><3><4>$}$
+[/FWThQsziKT6f]
+[HxqiFD6fR2Eo#0] ^Adj_nom<SN><mi><pl><voc>{^starý<adj><sint><2><3><4>$ ^stroj<n><2><3><4>$}$
+[/HxqiFD6fR2Eo]
+[I0xxVxMswp3k#0] ^unknown<unknown>{^*Tohle$}$ ^Je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$ ^det_nom<SN><nt><pl><acc>{^môj<det><pos><2><3><4>$ ^kočka<n><f><3><4>$}$^punt<sent>{^.<sent>$}$
+[/I0xxVxMswp3k]
+[IPG22wHtZTnu#0] ^Prnpers<PRN><p1><mf><sg><nom>{^@Prpers<prn><p1><mf><sg><nom>$}$ ^adj<ADV>{^ne<adv>$}$ ^być<SV><pres><p1><sg>{^byť<vbser><2><3><4>$}$ ^nom<SN><ma><sg><nom>{^lékař<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/IPG22wHtZTnu]
+[Ib4ppe1CB9fe#0] ^Prnpers<PRN><p1><mf><sg><nom>{^@Prpers<prn><p1><mf><sg><nom>$}$ ^cnjenc<CNJ><p1><sg>{^by<cnjsub>+byť<vbser><pres><2><3>$}$ ^unknown<unknown>{^*tyhle$}$ ^nom<SN><mi><pl><ins>{^internet<n><2><3><4>$}$ ^verb<SV><perf><past><PD><nt><pl>{^@zakázat<vblex><2><3><4><5><6>$}$^punt<sent>{^.<sent>$}$
+[/Ib4ppe1CB9fe]
+[Iok1uIYYzzHy#0] ^Nom<SN><mi><sg><nom>{^Jún<n><2><3><4>$}$
+[/Iok1uIYYzzHy]
+[J5JOjETnbXso#0] ^unknown<unknown>{^*Keď$}$ ^Prnpers<PRN><p3><nt><sg><acc>{^@prpers<prn><p3><nt><sg><acc>$}$ ^unknown<unknown>{^*uvideli$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*bežali$}$ ^unknown<unknown>{^*okamžite$}$ ^unknown<unknown>{^*preč$}$^punt<sent>{^.<sent>$}$
+[/J5JOjETnbXso]
+[Jh-CyIyQHQGZ#0] ^unknown<unknown>{^*Marec$}$
+[/Jh-CyIyQHQGZ]
+[KTNOFuyiSk-O#0] ^Nom<SN><mi><sg><nom>{^Kámen<n><2><3><4>$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$ ^det<DET><mi><sg><nom>{^môj<det><pos><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/KTNOFuyiSk-O]
+[KeKpW3oMv9Nk#0] ^default<default>{^@Pracovat<vblex><impf><past><m><sg>$}$ ^Adj<ADV>{^@tam<adv>$}$ ^unknown<unknown>{^*len$}$ ^unknown<unknown>{^*niekoľko$}$ ^nom<SN><mi><pl><gen>{^den<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/KeKpW3oMv9Nk]
+[KwVSB0QDaVXA#0] ^Det<DET><nt><sg><acc>{^To<det><dem><2><3><4>$}$ ^unknown<unknown>{^*sú$}$ ^prnpers<PRN><p3><ma><pl><nom>{^@prpers<prn><p3><ma><pl><nom>$}$^punt<sent>{^.<sent>$}$
+[/KwVSB0QDaVXA]
+[Ky4uitjmyl84#0] ^unknown<unknown>{^*Ja$}$ ^unknown<unknown>{^*nie$}$ ^unknown<unknown>{^*som$}$ ^unknown<unknown>{^*lekár$}$^punt<sent>{^.<sent>$}$
+[/Ky4uitjmyl84]
+[L2SrytxJUuio#0] ^unknown<unknown>{^*Brat$}$ ^Cnj<cnjcoo>{^a<cnjcoo>$}$ ^unknown<unknown>{^*sestra$}$ ^unknown<unknown>{^*sa$}$ ^unknown<unknown>{^*hrajú$}$^punt<sent>{^.<sent>$}$
+[/L2SrytxJUuio]
+[LY3XK0t3CxrT#0] ^Adj_nom<SN><nt><sg><nom>{^cizí<adj><2><3><4>$ ^oko<n><2><3><4>$}$
+[/LY3XK0t3CxrT]
+[LlZgiG3DUVf6#0] ^Nom<SN><f><sg><nom>{^Kniha<n><2><3><4>$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$ ^unknown<unknown>{^*čtena$}$^punt<sent>{^.<sent>$}$
+[/LlZgiG3DUVf6]
+[MKZUdJqJ4Oz7#0] ^Det<DET><nt><sg><acc>{^To<det><dem><2><3><4>$}$ ^być<SV><pres><p3><pl>{^byť<vbser><2><3><4>$}$ ^prnpers<PRN><p3><ma><pl><nom>{^@prpers<prn><p3><ma><pl><nom>$}$^punt<sent>{^.<sent>$}$
+[/MKZUdJqJ4Oz7]
+[Mu58KCyZv9O1#0] ^unknown<unknown>{^*napr$}$^punt<sent>{^.<sent>$}$
+[/Mu58KCyZv9O1]
+[N4RgjX1Z0c0T#0] ^default<default>{^@Pracovat<vblex><impf><past><m><sg>$}$ ^Adj<ADV>{^@tam<adv>$}$ ^adj<ADV>{^jen<adv>$}$ ^nom<SN><mf><pl><nom>{^@několik<prn><ind><2><3><4>$}$ ^nom<SN><mi><pl><gen>{^den<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/N4RgjX1Z0c0T]
+[NU1TyUz8gb8E#0] ^unknown<unknown>{^*Boli$}$ ^Cnj<cnjsub>{^by<cnjsub>$}$ ^unknown<unknown>{^*sme$}$ ^unknown<unknown>{^*radi$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*keby$}$ ^prnref<SN><dat>{^sa<prn><ref><dat>$}$ ^unknown<unknown>{^*chcela$}$ ^unknown<unknown>{^*prísť$}$^punt<sent>{^.<sent>$}$
+[/NU1TyUz8gb8E]
+[Nm9Bl3DqGsih#0] ^Cnj<cnjsub>{^Až<cnjsub>$}$ ^default<default>{^opadať<vblex><impf><pres><p3><sg>$}$ ^unknown<unknown>{^*lístie$}$ ^z<PREP>{^z<pr>$}$ ^nom<SN><mi><sg><dat>{^dub<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Nm9Bl3DqGsih]
+[Olf4fIuWDY3r#0] ^Adj_nom<SN><mi><sg><nom>{^starý<adj><sint><2><3><4>$ ^stroj<n><2><3><4>$}$
+[/Olf4fIuWDY3r]
+[P4SWsd6akakJ#0] ^default<default>{^@Pracovat<vblex><impf><pres><p1><sg>$}$^coma<cm>{^,<cm>$}$ ^cnjenc<CNJ><p1><sg>{^aby<cnjsub>+byť<vbser><pres><2><3>$}$ ^default<default>{^žiť<vblex><impf><past><m><sg>$}$^punt<sent>{^.<sent>$}$
+[/P4SWsd6akakJ]
+[P6d4C26TdDrq#0] ^Nom<SN><mi><sg><nom>{^@Špenát<n><2><3><4>$}$ ^unknown<unknown>{^*som$}$ ^unknown<unknown>{^*neznášal$}$^punt<sent>{^.<sent>$}$
+[/P6d4C26TdDrq]
+[RA58QGf1cClo#0] ^unknown<unknown>{^*Jem$}$ ^Cnj<cnjcoo>{^a<cnjcoo>$}$ ^unknown<unknown>{^*spím$}$^punt<sent>{^.<sent>$}$
+[/RA58QGf1cClo]
+[RYT60O3xy79h#0] ^unknown<unknown>{^*Ja$}$ ^Cnj<cnjsub>{^by<cnjsub>$}$ ^unknown<unknown>{^*som$}$ ^unknown<unknown>{^*tieto$}$ ^nom<SN><mi><pl><nom>{^internet<n><2><3><4>$}$ ^verb<SV><perf><past><PD><nt><pl>{^@zakázat<vblex><2><3><4><5><6>$}$^punt<sent>{^.<sent>$}$
+[/RYT60O3xy79h]
+[RkdKHYt0qmES#0] ^unknown<unknown>{^*jesenného$}$ ^Nom<SN><mi><sg><nom>{^@listí<n><2><3><4>$}$
+[/RkdKHYt0qmES]
+[Rm09SOolRGcG#0] ^Cnj<cnjsub>{^Keď<cnjsub>$}$ ^unknown<unknown>{^*jej$}$ ^unknown<unknown>{^*uviděli$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*běželi$}$ ^unknown<unknown>{^*horempádem$}$ ^adj<ADV>{^@pryč<adv>$}$^punt<sent>{^.<sent>$}$
+[/Rm09SOolRGcG]
+[SKcjjO7IlmLI#0] ^default<default>{^Chcieť<vblex><impf><pres><p1><sg>$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjsub>{^aby<cnjsub>$}$ ^det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^unknown<unknown>{^*vědeli$}$^punt<sent>{^.<sent>$}$
+[/SKcjjO7IlmLI]
+[SY-dP0VirBbB#0] ^default<default>{^Ako<rel><adv>$}$ ^unknown<unknown>{^*jse$}$ ^default<default>{^@jmenovat<vblex><impf><pres><p2><sg>$}$^punt<sent>{^?<sent>$}$
+[/SY-dP0VirBbB]
+[SjXvUqsZuLId#0] ^unknown<unknown>{^*biele$}$ ^Nom<SN><f><pl><nom>{^kost<n><2><3><4>$}$
+[/SjXvUqsZuLId]
+[Slf5J7pYzY3d#0] ^default<default>{^Odkiaľ<rel><adv>$}$ ^default<default>{^@přicházet<vblex><impf><pres><p2><sg>$}$^punt<sent>{^?<sent>$}$
+[/Slf5J7pYzY3d]
+[TCRklLqasaGS#0] ^Nom<SN><f><sg><nom>{^@Bola<n><2><3><4>$}$ ^adj<ADV>{^@tam<adv>$}$ ^nom<SN><f><sg><nom>{^zima<n><2><3><4>$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*dokonca$}$ ^unknown<unknown>{^*snežilo$}$^punt<sent>{^.<sent>$}$
+[/TCRklLqasaGS]
+[UJqZO6LusKmx#0] ^default<default>{^Prečo<rel><adv>$}$ ^unknown<unknown>{^*pláčeš$}$^punt<sent>{^?<sent>$}$
+[/UJqZO6LusKmx]
+[UXV-aHC88w9X#0] ^Adj_nom<SN><ma><sg><nom>{^silný<adj><sint><2><3><4>$ ^chlap<n><2><3><4>$}$
+[/UXV-aHC88w9X]
+[UmEvtOt_lUCJ#0] ^Prnpers<PRN><p3><f><pl><nom>{^@Prpers<prn><p3><f><pl><nom>$}$ ^default<default>{^žiť<vblex><impf><pres><p3><pl>$}$ ^adj<ADV>{^@spokojeně<adv><sint>$}$^punt<sent>{^.<sent>$}$
+[/UmEvtOt_lUCJ]
+[V6PaWJoqBQzF#0] ^default<default>{^Chcieť<vblex><impf><past><m><sg>$}$ ^Cnjenc<CNJ><p1><sg>{^by<cnjsub>+byť<vbser><pres><2><3>$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjcoo>{^ale<cnjcoo>$}$ ^adj<ADV>{^ne<adv>$}$ ^default<default>{^@moci<vaux><impf><pres><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/V6PaWJoqBQzF]
+[VYpr0Oceemul#0] ^unknown<unknown>{^*pena$}$ ^Z<PREP>{^z<pr>$}$ ^adj<SA><nt><pl><gen>{^vaječný<adj><sint><2><3><4>$}$ ^unknown<unknown>{^*bielkov$}$
+[/VYpr0Oceemul]
+[VpuZxpgRCqD1#0] ^Nom<SN><mi><sg><nom>{^Február<n><2><3><4>$}$
+[/VpuZxpgRCqD1]
+[X2q269sBuTwT#0] ^Nom<SN><mi><sg><nom>{^Marec<n><2><3><4>$}$
+[/X2q269sBuTwT]
+[XOYUVJCl1tuj#0] ^unknown<unknown>{^*cudzie$}$ ^Nom<SN><nt><pl><nom>{^oko<n><2><3><4>$}$
+[/XOYUVJCl1tuj]
+[YyLjZLoEXt_W#0] ^Prnpers<PRN><p2><mf><pl><nom>{^@Prpers<prn><p2><mf><pl><nom>$}$ ^być<SV><pres><p2><pl>{^byť<vbser><2><3><4>$}$ ^nom<SN><ma><pl><voc>{^student<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/YyLjZLoEXt_W]
+[__9vjVaCUJyK#0] ^Prnpers<PRN><p3><m><sg><nom>{^@Prpers<prn><p3><m><sg><nom>$}$ ^unknown<unknown>{^*nie$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$ ^unknown<unknown>{^*lekár$}$^punt<sent>{^.<sent>$}$
+[/__9vjVaCUJyK]
+[cZrzzCOZkYRB#0] ^unknown<unknown>{^*Ako$}$ ^unknown<unknown>{^*sa$}$ ^default<default>{^volať<vblex><impf><pres><p2><sg>$}$^punt<sent>{^?<sent>$}$
+[/cZrzzCOZkYRB]
+[dHHCdauC6K3R#0] ^unknown<unknown>{^*jesenní$}$ ^Nom<SN><mi><sg><nom>{^@listí<n><2><3><4>$}$
+[/dHHCdauC6K3R]
+[dbzEE86qtUZa#0] ^unknown<unknown>{^*veľké$}$ ^unknown<unknown>{^*mestá$}$
+[/dbzEE86qtUZa]
+[eS2PM7RGGrwy#0] ^Prnpers<PRN><p2><mf><pl><nom>{^@Prpers<prn><p2><mf><pl><nom>$}$ ^unknown<unknown>{^*ste$}$ ^unknown<unknown>{^*študenti$}$^punt<sent>{^.<sent>$}$
+[/eS2PM7RGGrwy]
+[f6IwiRnQSSW_#0] ^Nom<SN><mi><sg><nom>{^Júl<n><2><3><4>$}$
+[/f6IwiRnQSSW_]
+[fGAeWSMgnzAe#0] ^Prnpers<PRN><p1><mf><pl><nom>{^@Prpers<prn><p1><mf><pl><nom>$}$ ^być<SV><pres><p1><pl>{^byť<vbser><2><3><4>$}$ ^nom<SN><ma><pl><voc>{^student<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/fGAeWSMgnzAe]
+[fwhH_IJjrqWa#0] ^Prnpers<PRN><p1><mf><sg><nom>{^@Prpers<prn><p1><mf><sg><nom>$}$ ^być<SV><pres><p1><sg>{^byť<vbser><2><3><4>$}$ ^nom<SN><ma><sg><nom>{^student<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/fwhH_IJjrqWa]
+[gOITirEgedMm#0] ^default<default>{^Milovať<vblex><impf><pres><p1><sg>$}$ ^Prnpers<PRN><p2><mf><sg><gen>{^@prpers<prn><p2><mf><sg><gen>$}$^punt<sent>{^.<sent>$}$
+[/gOITirEgedMm]
+[gqmlDccEkyxG#0] ^unknown<unknown>{^*Ja$}$ ^unknown<unknown>{^*som$}$ ^unknown<unknown>{^*študent$}$^punt<sent>{^.<sent>$}$
+[/gqmlDccEkyxG]
+[gzDoUj8JWU40#0] ^default<default>{^@např<abbr>$}$^punt<sent>{^.<sent>$}$
+[/gzDoUj8JWU40]
+[hHydHNlHExAq#0] ^unknown<unknown>{^*Čo$}$ ^Det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$^punt<sent>{^?<sent>$}$
+[/hHydHNlHExAq]
+[hjT9s7oiXNHO#0] ^Nom<SN><mi><sg><nom>{^Október<n><2><3><4>$}$
+[/hjT9s7oiXNHO]
+[hkAlafmdotvh#0] ^Det<DET><mi><pl><nom>{^To<det><dem><2><3><4>$}$ ^prnref<SN><dat>{^sa<prn><ref><dat>$}$ ^unknown<unknown>{^*študent$}$^punt<sent>{^.<sent>$}$
+[/hkAlafmdotvh]
+[i57ondxD8ASa#0] ^default<default>{^Milovať<vblex><impf><pres><p1><pl>$}$ ^unknown<unknown>{^*ťa$}$^punt<sent>{^.<sent>$}$
+[/i57ondxD8ASa]
+[i7PyUUN3oRQ2#0] ^Nom<SN><mi><sg><nom>{^Apríl<n><2><3><4>$}$
+[/i7PyUUN3oRQ2]
+[ibGGAyOIeJEp#0] ^Det_nom<SN><nt><pl><acc>{^náš<det><pos><2><3><4>$ ^problém<n><mi><3><4>$}$
+[/ibGGAyOIeJEp]
+[iuQd9P8DHu0I#0] ^unknown<unknown>{^*biely$}$ ^unknown<unknown>{^*sneh$}$
+[/iuQd9P8DHu0I]
+[j7IEykYJaEeU#0] ^unknown<unknown>{^*December$}$
+[/j7IEykYJaEeU]
+[kqPee7dP0O8d#0] ^unknown<unknown>{^*Pi$}$ ^Nom<SN><f><sg><acc>{^voda<n><2><3><4>$}$^punt<sent>{^!<sent>$}$
+[/kqPee7dP0O8d]
+[krxu6rnWYtbF#0] ^Nom<SN><mi><sg><nom>{^November<n><2><3><4>$}$
+[/krxu6rnWYtbF]
+[l9LDgVyb-Mnc#0] ^Nom<SN><mi><sg><voc>{^Peniaz<n><2><3><4>$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjcoo>{^alebo<cnjcoo>$}$ ^nom<SN><mi><sg><acc>{^život<n><2><3><4>$}$^punt<sent>{^!<sent>$}$
+[/l9LDgVyb-Mnc]
+[l_ReRvZ5MFYo#0] ^unknown<unknown>{^*Október$}$
+[/l_ReRvZ5MFYo]
+[lgiYK2znxqG3#0] ^Nom<SN><mi><sg><nom>{^@Apríl<n><2><3><4>$}$
+[/lgiYK2znxqG3]
+[m7n0wv1QR3Wg#0] ^default<default>{^@Pracovat<vblex><impf><pres><p1><pl>$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjsub>{^aby<cnjsub>$}$ ^unknown<unknown>{^*som$}$ ^default<default>{^žiť<vblex><impf><past><m><sg>$}$^punt<sent>{^.<sent>$}$
+[/m7n0wv1QR3Wg]
+[mDJk5PsW1Ux0#0] ^Nom<SN><mi><sg><nom>{^August<n><2><3><4>$}$
+[/mDJk5PsW1Ux0]
+[mJp-OksSMMsY#0] ^Nom<SN><f><sg><ins>{^@Buda<np><top><2><3><4>$}$ ^default<default>{^@pít<vblex><impf><inf>$}$ ^nom<SN><f><sg><acc>{^voda<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/mJp-OksSMMsY]
+[mVUCrWaGyiqp#0] ^Adv_adj<SA><f><sg><ins>{^bílý<adj><sint><sup><2><3><4>$}$ ^unknown<unknown>{^*sníh$}$
+[/mVUCrWaGyiqp]
+[msLE5P3OgYk7#0] ^Prnpers<PRN><p3><f><pl><nom>{^@Prpers<prn><p3><f><pl><nom>$}$ ^unknown<unknown>{^*žijú$}$ ^unknown<unknown>{^*spokojne$}$^punt<sent>{^.<sent>$}$
+[/msLE5P3OgYk7]
+[n71_NuFMlOur#0] ^Adj_nom<SN><ma><pl><voc>{^silný<adj><sint><2><3><4>$ ^chlap<n><2><3><4>$}$
+[/n71_NuFMlOur]
+[ne-lnl_wuVYk#0] ^unknown<unknown>{^*Kameň$}$ ^Je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$ ^unknown<unknown>{^*môj$}$^punt<sent>{^.<sent>$}$
+[/ne-lnl_wuVYk]
+[neb-HXJlna7G#0] ^unknown<unknown>{^*November$}$
+[/neb-HXJlna7G]
+[oE5NTyh8dQ4U#0] ^Adj_nom<SN><nt><sg><acc>{^velký<adj><sint><2><3><4>$ ^město<n><2><3><4>$}$
+[/oE5NTyh8dQ4U]
+[oNZ_t-ZaLKa0#0] ^default<default>{^Čo<rel><an><nt><sg>$}$ ^Det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$^punt<sent>{^?<sent>$}$
+[/oNZ_t-ZaLKa0]
+[olpNPvi9q5AJ#0] ^Det<DET><nt><sg><acc>{^To<det><dem><2><3><4>$}$ ^unknown<unknown>{^*som$}$ ^unknown<unknown>{^*ja$}$^punt<sent>{^.<sent>$}$
+[/olpNPvi9q5AJ]
+[pNrPywGgcZ8U#0] ^default<default>{^@Pít<vblex><impf><imp><p2><sg>$}$ ^Nom<SN><f><sg><acc>{^voda<n><2><3><4>$}$^punt<sent>{^!<sent>$}$
+[/pNrPywGgcZ8U]
+[pQeULXETOn5e#0] ^Det<DET><mi><pl><nom>{^To<det><dem><2><3><4>$}$ ^być<SV><pres><p2><sg>{^byť<vbser><2><3><4>$}$ ^nom<SN><ma><sg><nom>{^student<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/pQeULXETOn5e]
+[pYNDlxMwyMTC#0] ^Nom<SN><mi><sg><ins>{^@Id<n><2><3><4>$}$ ^adj<ADV>{^@tam<adv>$}$^coma<cm>{^,<cm>$}$ ^unknown<unknown>{^*pretože$}$ ^unknown<unknown>{^*chcem$}$^punt<sent>{^.<sent>$}$
+[/pYNDlxMwyMTC]
+[pm2JcOVpqUQj#0] ^Nom<SN><ma><sg><nom>{^@August<n><2><3><4>$}$
+[/pm2JcOVpqUQj]
+[q7MuQC3QLdm1#0] ^Nom<SN><mi><sg><nom>{^Máj<n><2><3><4>$}$
+[/q7MuQC3QLdm1]
+[qL2feHseWj2Q#0] ^Det<DET><nt><sg><acc>{^To<det><dem><2><3><4>$}$ ^unknown<unknown>{^*sme$}$ ^prnpers<PRN><p1><mf><pl><nom>{^@prpers<prn><p1><mf><pl><nom>$}$^punt<sent>{^.<sent>$}$
+[/qL2feHseWj2Q]
+[qUm_2kh8yL4T#0] ^Prnpers<PRN><p1><mf><sg><nom>{^@Prpers<prn><p1><mf><sg><nom>$}$ ^default<default>{^žiť<vblex><impf><pres><p1><sg>$}$ ^adj<ADV>{^@spokojeně<adv><sint>$}$^punt<sent>{^.<sent>$}$
+[/qUm_2kh8yL4T]
+[qhVdvTSqoReL#0] ^Nom<SN><f><sg><nom>{^@pěna<n><2><3><4>$}$ ^z<PREP>{^z<pr>$}$ ^adj_nom<SN><mi><pl><gen>{^vaječný<adj><sint><2><3><4>$ ^@bílek<n><2><3><4>$}$
+[/qhVdvTSqoReL]
+[qrMFB_MjgWzx#0] ^Adj<SA><mi><sg><voc>{^bílý<adj><sint><comp><2><3><4>$}$ ^unknown<unknown>{^*sníh$}$
+[/qrMFB_MjgWzx]
+[r2tgCf34Wwpc#0] ^Adj_nom<SN><nt><pl><nom>{^cizí<adj><2><3><4>$ ^oko<n><2><3><4>$}$
+[/r2tgCf34Wwpc]
+[rHg9eBOHkelw#0] ^Adj_nom<SN><nt><pl><nom>{^velký<adj><sint><2><3><4>$ ^město<n><2><3><4>$}$
+[/rHg9eBOHkelw]
+[s4Fhq0mNSRMq#0] ^unknown<unknown>{^*jesenné$}$ ^unknown<unknown>{^*lístie$}$
+[/s4Fhq0mNSRMq]
+[sdbOeu4gi3vi#0] ^Det<DET><nt><sg><acc>{^To<det><dem><2><3><4>$}$ ^być<SV><pres><p1><sg>{^byť<vbser><2><3><4>$}$ ^prnpers<PRN><p1><mf><sg><nom>{^@prpers<prn><p1><mf><sg><nom>$}$^punt<sent>{^.<sent>$}$
+[/sdbOeu4gi3vi]
+[sit32HcIhPY-#0] ^unknown<unknown>{^*Kto$}$ ^Det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$^punt<sent>{^?<sent>$}$
+[/sit32HcIhPY-]
+[t257Os-OoU5R#0] ^Det<DET><nt><sg><acc>{^@Toto<det><dem><2><3><4>$}$ ^je<JE>{^@prpers<prn><p3><mf><pl><acc>$}$ ^det<DET><f><sg><nom>{^môj<det><pos><2><3><4>$}$ ^unknown<unknown>{^*mačka$}$^punt<sent>{^.<sent>$}$
+[/t257Os-OoU5R]
+[t4Mkz2PfQ3ps#0] ^unknown<unknown>{^*Budú$}$ ^unknown<unknown>{^*piť$}$ ^Nom<SN><f><sg><acc>{^voda<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/t4Mkz2PfQ3ps]
+[t5qrTcAm9zLg#0] ^Nom<SN><mi><sg><nom>{^Január<n><2><3><4>$}$
+[/t5qrTcAm9zLg]
+[tYcBX-VoWkMv#0] ^unknown<unknown>{^*Február$}$
+[/tYcBX-VoWkMv]
+[tkMEN71XPF18#0] ^Nom<SN><mi><sg><nom>{^@Máj<n><2><3><4>$}$
+[/tkMEN71XPF18]
+[tqI1CGfaV-Fm#0] ^Nom<SN><f><sg><nom>{^Kniha<n><2><3><4>$}$ ^unknown<unknown>{^*sa$}$ ^unknown<unknown>{^*číta$}$^punt<sent>{^.<sent>$}$
+[/tqI1CGfaV-Fm]
+[uqfvKgMmL5Jc#0] ^Nom<SN><mi><sg><nom>{^@Špenát<n><2><3><4>$}$ ^być<SV><pres><p1><sg>{^byť<vbser><2><3><4>$}$ ^unknown<unknown>{^*nesnášel$}$^punt<sent>{^.<sent>$}$
+[/uqfvKgMmL5Jc]
+[us2h-OFczRer#0] ^unknown<unknown>{^*Ja$}$ ^default<default>{^žiť<vblex><impf><pres><p1><pl>$}$ ^unknown<unknown>{^*spokojne$}$^punt<sent>{^.<sent>$}$
+[/us2h-OFczRer]
+[vTXfrReUc-VK#0] ^unknown<unknown>{^*veľké$}$ ^unknown<unknown>{^*mesto$}$
+[/vTXfrReUc-VK]
+[vYhIopL7lw2U#0] ^unknown<unknown>{^*Koľko$}$ ^unknown<unknown>{^*prstov$}$ ^default<default>{^@vidět<vblex><impf><pres><p2><sg>$}$^punt<sent>{^?<sent>$}$
+[/vYhIopL7lw2U]
+[v_u9tZz1P009#0] ^Nom<SN><mi><sg><nom>{^December<n><2><3><4>$}$
+[/v_u9tZz1P009]
+[vbZVHFYyMR1J#0] ^Prnpers<PRN><p3><m><sg><ins>{^@Prpers<prn><p3><m><sg><ins>$}$ ^cnj<cnjcoo>{^a<cnjcoo>$}$ ^unknown<unknown>{^*spím$}$^punt<sent>{^.<sent>$}$
+[/vbZVHFYyMR1J]
+[w0wAudLCo0DY#0] ^Prnpers<PRN><p3><m><sg><nom>{^@Prpers<prn><p3><m><sg><nom>$}$ ^je<JE>{^byť<vbser><pres><p3><sg>$}$ ^nom<SN><ma><sg><nom>{^student<n><2><3><4>$}$
+[/w0wAudLCo0DY]
+[wVLz0BvhN_69#0] ^default<default>{^@Jít<vblex><impf><pres><p1><sg>$}$ ^Adj<ADV>{^@tam<adv>$}$^coma<cm>{^,<cm>$}$ ^cnj<cnjadv>{^@poněvadž<cnjadv>$}$ ^default<default>{^chcieť<vblex><impf><pres><p1><sg>$}$^punt<sent>{^.<sent>$}$
+[/wVLz0BvhN_69]
+[xA7kYi6HsCUb#0] ^Adj_nom<SN><f><sg><nom>{^bílý<adj><sint><2><3><4>$ ^kost<n><2><3><4>$}$
+[/xA7kYi6HsCUb]
+[xjy1HmRLvFgp#0] ^unknown<unknown>{^*Júl$}$
+[/xjy1HmRLvFgp]
+[xkxsgpY85tkK#0] ^Prnpers<PRN><p3><m><sg><nom>{^@Prpers<prn><p3><m><sg><nom>$}$ ^neni<NENI>{^ne<adv>$ ^byť<vbser><pres><p3><sg>$}$ ^nom<SN><ma><sg><nom>{^lékař<n><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/xkxsgpY85tkK]
+[yTi1uyWaZqdh#0] ^unknown<unknown>{^*Prečo$}$ ^unknown<unknown>{^*plačeš$}$^punt<sent>{^?<sent>$}$
+[/yTi1uyWaZqdh]
+[y_tNZrkJ_pyq#0] ^Prnpers<PRN><p3><ma><pl><nom>{^@Prpers<prn><p3><ma><pl><nom>$}$ ^unknown<unknown>{^*sú$}$ ^unknown<unknown>{^*študenti$}$^punt<sent>{^.<sent>$}$
+[/y_tNZrkJ_pyq]
+[ylg7BcL6LhN7#0] ^Det<DET><nt><sg><acc>{^To<det><dem><2><3><4>$}$ ^być<SV><pres><p1><pl>{^byť<vbser><2><3><4>$}$ ^prnpers<PRN><p1><mf><pl><nom>{^@prpers<prn><p1><mf><pl><nom>$}$^punt<sent>{^.<sent>$}$
+[/ylg7BcL6LhN7]
+[z-NSnH38bKqD#0] ^unknown<unknown>{^*Január$}$
+[/z-NSnH38bKqD]
+[zVWeoKvKCF7x#0] ^unknown<unknown>{^*September$}$
+[/zVWeoKvKCF7x]
+[zcytftxSVoI5#0] ^Prnpers<PRN><p1><mf><sg><acc>{^@Prpers<prn><p1><mf><sg><acc>$}$ ^det<DET><nt><sg><acc>{^to<det><dem><2><3><4>$}$ ^adj<ADV>{^ne<adv>$}$ ^default<default>{^@zajímat<vblex><impf><pres><p3><sg>$}$^punt<sent>{^.<sent>$}$
+[/zcytftxSVoI5]

@@ -1,0 +1,276 @@
+[-Af2bUIOFudE#0] ^Kolik/Kolik<prn><ind><mf><pl><nom>/Kolik<det><qnt><mf><pl><nom>$ ^prstů/prst<n><mi><pl><gen>/prst<n><mi><pl><gen>$ ^vidíš/vidět<vblex><impf><pres><p2><sg>$^?/?<sent>$
+[/-Af2bUIOFudE]
+[-gBi9Rx0sAzZ#0] ^Brat/*Brat$ ^a/a<cnjcoo>$ ^sestra/*sestra$ ^si/se<prn><ref><dat>$ ^hrají/hrát<vblex><impf><pres><p3><pl>$^./.<sent>$
+[/-gBi9Rx0sAzZ]
+[-hcsDZNw3aGy#0] ^Chcem/*Chcem$^,/,<cm>$ ^aby/aby<cnjsub>$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^vedeli/*vedeli$^./.<sent>$
+[/-hcsDZNw3aGy]
+[0ef16EKmHGDi#0] ^bílé/bílý<adj><sint><ma><pl><acc>/bílý<adj><sint><mi><pl><voc>/bílý<adj><sint><mi><pl><nom>/bílý<adj><sint><mi><pl><acc>/bílý<adj><sint><f><sg><loc>/bílý<adj><sint><f><sg><dat>/bílý<adj><sint><f><sg><gen>/bílý<adj><sint><f><pl><voc>/bílý<adj><sint><f><pl><nom>/bílý<adj><sint><f><pl><acc>/bílý<adj><sint><nt><sg><voc>/bílý<adj><sint><nt><sg><nom>/bílý<adj><sint><nt><sg><acc>$ ^kosti/kost<n><f><sg><loc>/kost<n><f><sg><voc>/kost<n><f><sg><dat>/kost<n><f><sg><gen>/kost<n><f><pl><voc>/kost<n><f><pl><nom>/kost<n><f><pl><acc>$
+[/0ef16EKmHGDi]
+[14LVDIuvTS-m#0] ^jesenného/*jesenného$ ^lístia/*lístia$
+[/14LVDIuvTS-m]
+[1JddPBlCFlFR#0] ^Odkiaľ/*Odkiaľ$ ^prichádzaš/*prichádzaš$^?/?<sent>$
+[/1JddPBlCFlFR]
+[1zt75myxRdaa#0] ^My/Prpers<prn><p1><mf><pl><nom>$ ^sme/*sme$ ^študenti/*študenti$^./.<sent>$
+[/1zt75myxRdaa]
+[2hh7VOLQSPgT#0] ^Jún/*Jún$
+[/2hh7VOLQSPgT]
+[2qgDgXKAzbh5#0] ^biela/*biela$ ^kosť/*kosť$
+[/2qgDgXKAzbh5]
+[3FEDAOmNzvRA#0] ^Pozri/*Pozri$ ^sa/*sa$ ^na/na<pr>$ ^neho/prpers<prn><ppr><p3><nt><sg><acc>/prpers<prn><ppr><p3><m><sg><acc>$^./.<sent>$
+[/3FEDAOmNzvRA]
+[3jVhpPdwt8zX#0] ^On/Prpers<prn><p3><m><sg><nom>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^študent/*študent$^./.<sent>$
+[/3jVhpPdwt8zX]
+[4J4fV8SrRjct#0] ^Září/Září<n><mi><pl><acc>/Září<n><mi><pl><gen>/Září<n><mi><pl><acc>/Září<n><mi><pl><nom>/Září<n><mi><pl><voc>/Září<n><mi><sg><gen>/Září<n><mi><sg><acc>/Září<n><mi><sg><dat>/Září<n><mi><sg><nom>/Září<n><mi><sg><voc>/Září<n><mi><sg><loc>/Září<n><mi><pl><gen>/Zář<n><f><sg><ins>/Září<n><mi><pl><nom>/Září<n><mi><pl><voc>/Září<n><mi><sg><gen>/Září<n><mi><sg><acc>/Září<n><mi><sg><dat>/Září<n><mi><sg><nom>/Září<n><mi><sg><voc>/Září<n><mi><sg><loc>/Záře<n><f><pl><gen>/Záře<n><f><sg><ins>/Zář<n><f><pl><gen>$
+[/4J4fV8SrRjct]
+[6Zq9Jy95blbp#0] ^Byli/Být<vbser><past><ma><pl>$ ^bychom/by<cnjsub>+být<vbser><pres><p1><pl>$ ^rádi/*rádi$^,/,<cm>$ ^kdybys/kdyby<cnjsub>+být<vbser><pres><p2><sg>$ ^chtěla/chtít<vblex><impf><past><f><sg>/chtít<vblex><impf><past><nt><pl>$ ^prijít/*prijít$^./.<sent>$
+[/6Zq9Jy95blbp]
+[8Cs-0Cm1NfxH#0] ^bílý/bílý<adj><sint><ma><sg><voc>/bílý<adj><sint><ma><sg><nom>/bílý<adj><sint><mi><sg><voc>/bílý<adj><sint><mi><sg><nom>/bílý<adj><sint><mi><sg><acc>$ ^sníh/*sníh$
+[/8Cs-0Cm1NfxH]
+[8q-992jAc0Je#0] ^Zomrel/*Zomrel$ ^tak/tak<adv>$^,/,<cm>$ ^ako/*ako$ ^žil/žít<vblex><impf><past><m><sg>$^./.<sent>$
+[/8q-992jAc0Je]
+[A4v4bzHGmD4e#0] ^Oni/Prpers<prn><p3><ma><pl><nom>$ ^jsou/být<vbser><pres><p3><pl>$ ^studenti/student<n><ma><pl><voc>/student<n><ma><pl><nom>/student<n><ma><pl><voc>/student<n><ma><pl><nom>$
+[/A4v4bzHGmD4e]
+[AdsakTmPlgSc#0] ^Peniaze/*Peniaze$^,/,<cm>$ ^alebo/*alebo$ ^život/život<n><mi><sg><nom>/život<n><mi><sg><acc>$^!/!<sent>$
+[/AdsakTmPlgSc]
+[B9WDEQUQEAs1#0] ^Mna/*Mna$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^nezaujíma/*nezaujíma$^./.<sent>$
+[/B9WDEQUQEAs1]
+[BSa8SQlFPAY2#0] ^Chcel/*Chcel$ ^by/by<cnjsub>$ ^som/*som$^,/,<cm>$ ^ale/ale<cnjcoo>$ ^nemôžem/*nemôžem$^./.<sent>$
+[/BSa8SQlFPAY2]
+[BeEwFwQlYIAo#0] ^Zemřel/*Zemřel$ ^tak/tak<adv>$^,/,<cm>$ ^jak/jak<rel><adv>/jak<adv><itg>$ ^žil/žít<vblex><impf><past><m><sg>$^./.<sent>$
+[/BeEwFwQlYIAo]
+[DWKq6z6RyaUI#0] ^belší/*belší$ ^sneh/*sneh$
+[/DWKq6z6RyaUI]
+[DyqSVeDDnN4M#0] ^Až/Až<cnjsub>$ ^opadá/opadat<vblex><impf><pres><p3><sg>$ ^listí/listí<n><mi><sg><loc>/listí<n><mi><sg><voc>/listí<n><mi><sg><nom>/listí<n><mi><sg><dat>/listí<n><mi><sg><acc>/listí<n><mi><sg><gen>/listí<n><mi><pl><voc>/listí<n><mi><pl><nom>/listí<n><mi><pl><acc>/listí<n><mi><pl><gen>$ ^z/z<pr>$ ^dubu/dub<n><mi><sg><loc>/dub<n><mi><sg><dat>/dub<n><mi><sg><gen>/dub<n><mi><sg><loc>/dub<n><mi><sg><dat>/dub<n><mi><sg><gen>$^./.<sent>$
+[/DyqSVeDDnN4M]
+[E22VoxR8LWju#0] ^najbelší/*najbelší$ ^sneh/*sneh$
+[/E22VoxR8LWju]
+[EINJFIlby5Cl#0] ^Byla/Být<vbser><past><f><sg>/Být<vbser><past><nt><pl>$ ^tam/tam<adv>$ ^zima/zima<n><f><sg><nom>$^,/,<cm>$ ^dokonce/dokonce<adv>$ ^sněžilo/sněžit<vblex><impf><past><nt><sg>$^./.<sent>$
+[/EINJFIlby5Cl]
+[Ew6dBFzxhw7f#0] ^Podívej/*Podívej$ ^se/se<prn><ref><acc>$ ^na/na<pr>$ ^nej/nej<adv>$^./.<sent>$
+[/Ew6dBFzxhw7f]
+[FWThQsziKT6f#0] ^cudzie/*cudzie$ ^oko/oko<n><nt><sg><voc>/oko<n><nt><sg><nom>/oko<n><nt><sg><acc>$
+[/FWThQsziKT6f]
+[HxqiFD6fR2Eo#0] ^staré/starý<adj><sint><ma><pl><acc>/starý<adj><sint><nt><sg><acc>/starý<adj><sint><nt><sg><nom>/starý<adj><sint><nt><sg><voc>/starý<adj><sint><f><pl><acc>/starý<adj><sint><f><pl><nom>/starý<adj><sint><f><pl><voc>/starý<adj><sint><f><sg><gen>/starý<adj><sint><f><sg><dat>/starý<adj><sint><f><sg><loc>/starý<adj><sint><mi><pl><acc>/starý<adj><sint><mi><pl><nom>/starý<adj><sint><mi><pl><voc>/starý<adj><ma><pl><acc>/starý<adj><nt><sg><acc>/starý<adj><nt><sg><nom>/starý<adj><nt><sg><voc>/starý<adj><f><pl><acc>/starý<adj><f><pl><nom>/starý<adj><f><pl><voc>/starý<adj><f><sg><gen>/starý<adj><f><sg><dat>/starý<adj><f><sg><loc>/starý<adj><mi><pl><acc>/starý<adj><mi><pl><nom>/starý<adj><mi><pl><voc>$ ^stroje/stroj<n><mi><sg><gen>/stroj<n><mi><pl><voc>/stroj<n><mi><pl><nom>/stroj<n><mi><pl><acc>/strojit<vblex><impf><tgv><pprs><ma><sg>/strojit<vblex><impf><tgv><pprs><mi><sg>$
+[/HxqiFD6fR2Eo]
+[I0xxVxMswp3k#0] ^Tohle/*Tohle$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^moje/můj<det><pos><f><sg><voc>/můj<det><pos><nt><pl><voc>/můj<det><pos><nt><pl><acc>/můj<det><pos><nt><pl><nom>/můj<det><pos><nt><sg><voc>/můj<det><pos><nt><sg><acc>/můj<det><pos><nt><sg><nom>/můj<det><pos><mi><pl><voc>/můj<det><pos><mi><pl><acc>/můj<det><pos><mi><pl><nom>/můj<det><pos><ma><pl><acc>/můj<det><pos><f><pl><voc>/můj<det><pos><f><pl><acc>/můj<det><pos><f><pl><nom>/můj<prn><pos><f><sg><voc>/můj<prn><pos><nt><pl><voc>/můj<prn><pos><nt><pl><acc>/můj<prn><pos><nt><pl><nom>/můj<prn><pos><nt><sg><voc>/můj<prn><pos><nt><sg><acc>/můj<prn><pos><nt><sg><nom>/můj<prn><pos><mi><pl><voc>/můj<prn><pos><mi><pl><acc>/můj<prn><pos><mi><pl><nom>/můj<prn><pos><ma><pl><acc>/můj<prn><pos><f><pl><voc>/můj<prn><pos><f><pl><acc>/můj<prn><pos><f><pl><nom>$ ^kočka/kočka<n><f><sg><nom>/kočka<n><f><sg><nom>$^./.<sent>$
+[/I0xxVxMswp3k]
+[IPG22wHtZTnu#0] ^Já/Prpers<prn><p1><mf><sg><nom>$ ^nejsem/ne<adv>+být<vbser><pres><p1><sg>$ ^lékař/lékař<n><ma><sg><nom>/lékař<n><ma><sg><nom>$^./.<sent>$
+[/IPG22wHtZTnu]
+[Ib4ppe1CB9fe#0] ^Já/Prpers<prn><p1><mf><sg><nom>$ ^bych/by<cnjsub>+být<vbser><pres><p1><sg>$ ^tyhle/*tyhle$ ^internety/internet<n><mi><pl><voc>/internet<n><mi><pl><ins>/internet<n><mi><pl><nom>/internet<n><mi><pl><acc>$ ^zakázala/zakázat<vblex><perf><past><nt><pl>/zakázat<vblex><perf><past><f><sg>$^./.<sent>$
+[/Ib4ppe1CB9fe]
+[Iok1uIYYzzHy#0] ^Červen/Červen<n><mi><sg><nom>/Červen<n><mi><sg><acc>/Červen<n><mi><sg><nom>/Červen<n><mi><sg><acc>$
+[/Iok1uIYYzzHy]
+[J5JOjETnbXso#0] ^Keď/*Keď$ ^ho/prpers<prn><p3><nt><sg><acc>/prpers<prn><p3><nt><sg><gen>/prpers<prn><p3><m><sg><acc>/prpers<prn><p3><m><sg><gen>$ ^uvideli/*uvideli$^,/,<cm>$ ^bežali/*bežali$ ^okamžite/*okamžite$ ^preč/*preč$^./.<sent>$
+[/J5JOjETnbXso]
+[Jh-CyIyQHQGZ#0] ^Marec/*Marec$
+[/Jh-CyIyQHQGZ]
+[KTNOFuyiSk-O#0] ^Kámen/Kámen<n><mi><sg><nom>/Kámen<n><mi><sg><acc>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^můj/můj<prn><pos><ma><sg><voc>/můj<prn><pos><ma><sg><nom>/můj<prn><pos><mi><sg><voc>/můj<prn><pos><mi><sg><nom>/můj<prn><pos><mi><sg><acc>/můj<det><pos><ma><sg><voc>/můj<det><pos><ma><sg><nom>/můj<det><pos><mi><sg><voc>/můj<det><pos><mi><sg><nom>/můj<det><pos><mi><sg><acc>$^./.<sent>$
+[/KTNOFuyiSk-O]
+[KeKpW3oMv9Nk#0] ^Pracoval/Pracovat<vblex><impf><past><m><sg>/Pracovat<vblex><impf><past><m><sg>$ ^tam/tam<adv>$ ^len/*len$ ^niekoľko/*niekoľko$ ^dní/den<n><mi><pl><gen>$^./.<sent>$
+[/KeKpW3oMv9Nk]
+[KwVSB0QDaVXA#0] ^To/To<det><dem><nt><sg><nom>/To<det><dem><nt><sg><acc>$ ^sú/*sú$ ^oni/prpers<prn><p3><ma><pl><nom>$^./.<sent>$
+[/KwVSB0QDaVXA]
+[Ky4uitjmyl84#0] ^Ja/*Ja$ ^nie/*nie$ ^som/*som$ ^lekár/*lekár$^./.<sent>$
+[/Ky4uitjmyl84]
+[L2SrytxJUuio#0] ^Brat/*Brat$ ^a/a<cnjcoo>$ ^sestra/*sestra$ ^sa/*sa$ ^hrajú/*hrajú$^./.<sent>$
+[/L2SrytxJUuio]
+[LY3XK0t3CxrT#0] ^cizí/cizí<adj><f><sg><nom>/cizí<adj><ma><sg><nom>/cizí<adj><ma><pl><voc>/cizí<adj><ma><pl><nom>/cizí<adj><ma><pl><acc>/cizí<adj><mi><sg><voc>/cizí<adj><mi><sg><nom>/cizí<adj><mi><sg><acc>/cizí<adj><mi><pl><voc>/cizí<adj><mi><pl><nom>/cizí<adj><mi><pl><acc>/cizí<adj><f><sg><loc>/cizí<adj><f><sg><voc>/cizí<adj><f><sg><ins>/cizí<adj><ma><sg><voc>/cizí<adj><f><sg><dat>/cizí<adj><f><sg><acc>/cizí<adj><f><sg><gen>/cizí<adj><f><pl><voc>/cizí<adj><f><pl><nom>/cizí<adj><f><pl><acc>/cizí<adj><nt><sg><voc>/cizí<adj><nt><sg><nom>/cizí<adj><nt><sg><acc>/cizí<adj><nt><pl><voc>/cizí<adj><nt><pl><nom>/cizí<adj><nt><pl><acc>/cizí<adj><f><sg><nom>/cizí<adj><ma><sg><nom>/cizí<adj><ma><pl><voc>/cizí<adj><ma><pl><nom>/cizí<adj><ma><pl><acc>/cizí<adj><mi><sg><voc>/cizí<adj><mi><sg><nom>/cizí<adj><mi><sg><acc>/cizí<adj><mi><pl><voc>/cizí<adj><mi><pl><nom>/cizí<adj><mi><pl><acc>/cizí<adj><f><sg><loc>/cizí<adj><f><sg><voc>/cizí<adj><f><sg><ins>/cizí<adj><ma><sg><voc>/cizí<adj><f><sg><dat>/cizí<adj><f><sg><acc>/cizí<adj><f><sg><gen>/cizí<adj><f><pl><voc>/cizí<adj><f><pl><nom>/cizí<adj><f><pl><acc>/cizí<adj><nt><sg><voc>/cizí<adj><nt><sg><nom>/cizí<adj><nt><sg><acc>/cizí<adj><nt><pl><voc>/cizí<adj><nt><pl><nom>/cizí<adj><nt><pl><acc>$ ^oko/oko<n><nt><sg><voc>/oko<n><nt><sg><nom>/oko<n><nt><sg><acc>$
+[/LY3XK0t3CxrT]
+[LlZgiG3DUVf6#0] ^Kniha/Kniha<n><f><sg><nom>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^čtena/*čtena$^./.<sent>$
+[/LlZgiG3DUVf6]
+[MKZUdJqJ4Oz7#0] ^To/To<det><dem><nt><sg><nom>/To<det><dem><nt><sg><acc>$ ^jsou/být<vbser><pres><p3><pl>$ ^oni/prpers<prn><p3><ma><pl><nom>$^./.<sent>$
+[/MKZUdJqJ4Oz7]
+[Mu58KCyZv9O1#0] ^napr/*napr$^./.<sent>$
+[/Mu58KCyZv9O1]
+[N4RgjX1Z0c0T#0] ^Pracoval/Pracovat<vblex><impf><past><m><sg>/Pracovat<vblex><impf><past><m><sg>$ ^tam/tam<adv>$ ^jen/jen<adv>$ ^několik/několik<prn><ind><mf><pl><nom>/několik<det><qnt><mf><pl><nom>$ ^dní/den<n><mi><pl><gen>$^./.<sent>$
+[/N4RgjX1Z0c0T]
+[NU1TyUz8gb8E#0] ^Boli/*Boli$ ^by/by<cnjsub>$ ^sme/*sme$ ^radi/*radi$^,/,<cm>$ ^keby/*keby$ ^si/se<prn><ref><dat>$ ^chcela/*chcela$ ^prísť/*prísť$^./.<sent>$
+[/NU1TyUz8gb8E]
+[Nm9Bl3DqGsih#0] ^Až/Až<cnjsub>$ ^opadá/opadat<vblex><impf><pres><p3><sg>$ ^lístie/*lístie$ ^z/z<pr>$ ^dubu/dub<n><mi><sg><loc>/dub<n><mi><sg><dat>/dub<n><mi><sg><gen>/dub<n><mi><sg><loc>/dub<n><mi><sg><dat>/dub<n><mi><sg><gen>$^./.<sent>$
+[/Nm9Bl3DqGsih]
+[Olf4fIuWDY3r#0] ^starý/starý<adj><ma><sg><voc>/starý<adj><ma><sg><nom>/starý<adj><mi><sg><voc>/starý<adj><mi><sg><nom>/starý<adj><mi><sg><acc>/starý<adj><sint><ma><sg><voc>/starý<adj><sint><ma><sg><nom>/starý<adj><sint><mi><sg><voc>/starý<adj><sint><mi><sg><nom>/starý<adj><sint><mi><sg><acc>$ ^stroj/stroj<n><mi><sg><nom>/stroj<n><mi><sg><acc>/strojit<vblex><impf><imp><p2><sg>/strojit<vblex><impf><imp><emph><p2><sg>$
+[/Olf4fIuWDY3r]
+[P4SWsd6akakJ#0] ^Pracuji/Pracovat<vblex><impf><pres><p1><sg>/Pracovat<vblex><impf><pres><p1><sg>$^,/,<cm>$ ^abych/aby<cnjsub>+být<vbser><pres><p1><sg>$ ^žil/žít<vblex><impf><past><m><sg>$^./.<sent>$
+[/P4SWsd6akakJ]
+[P6d4C26TdDrq#0] ^Špenát/Špenát<n><mi><sg><nom>/Špenát<n><mi><sg><acc>$ ^som/*som$ ^neznášal/*neznášal$^./.<sent>$
+[/P6d4C26TdDrq]
+[RA58QGf1cClo#0] ^Jem/*Jem$ ^a/a<cnjcoo>$ ^spím/*spím$^./.<sent>$
+[/RA58QGf1cClo]
+[RYT60O3xy79h#0] ^Ja/*Ja$ ^by/by<cnjsub>$ ^som/*som$ ^tieto/*tieto$ ^internety/internet<n><mi><pl><voc>/internet<n><mi><pl><ins>/internet<n><mi><pl><nom>/internet<n><mi><pl><acc>$ ^zakázala/zakázat<vblex><perf><past><nt><pl>/zakázat<vblex><perf><past><f><sg>$^./.<sent>$
+[/RYT60O3xy79h]
+[RkdKHYt0qmES#0] ^jesenného/*jesenného$ ^listí/listí<n><mi><sg><loc>/listí<n><mi><sg><voc>/listí<n><mi><sg><nom>/listí<n><mi><sg><dat>/listí<n><mi><sg><acc>/listí<n><mi><sg><gen>/listí<n><mi><pl><voc>/listí<n><mi><pl><nom>/listí<n><mi><pl><acc>/listí<n><mi><pl><gen>$
+[/RkdKHYt0qmES]
+[Rm09SOolRGcG#0] ^Když/Když<cnjsub>$ ^jej/*jej$ ^uviděli/*uviděli$^,/,<cm>$ ^běželi/*běželi$ ^horempádem/*horempádem$ ^pryč/pryč<adv>$^./.<sent>$
+[/Rm09SOolRGcG]
+[SKcjjO7IlmLI#0] ^Chci/Chtít<vblex><impf><pres><p1><sg>$^,/,<cm>$ ^aby/aby<cnjsub>$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^vědeli/*vědeli$^./.<sent>$
+[/SKcjjO7IlmLI]
+[SY-dP0VirBbB#0] ^Jak/Jak<rel><adv>/Jak<adv><itg>$ ^jse/*jse$ ^jmenuješ/jmenovat<vblex><impf><pres><p2><sg>/jmenovat<vblex><impf><pres><p2><sg>$^?/?<sent>$
+[/SY-dP0VirBbB]
+[SjXvUqsZuLId#0] ^biele/*biele$ ^kosti/kost<n><f><sg><loc>/kost<n><f><sg><voc>/kost<n><f><sg><dat>/kost<n><f><sg><gen>/kost<n><f><pl><voc>/kost<n><f><pl><nom>/kost<n><f><pl><acc>$
+[/SjXvUqsZuLId]
+[Slf5J7pYzY3d#0] ^Odkud/Odkud<rel><adv>/Odkud<adv><itg>$ ^přicházíš/přicházet<vblex><impf><pres><p2><sg>$^?/?<sent>$
+[/Slf5J7pYzY3d]
+[TCRklLqasaGS#0] ^Bola/Bola<n><f><sg><nom>$ ^tam/tam<adv>$ ^zima/zima<n><f><sg><nom>$^,/,<cm>$ ^dokonca/*dokonca$ ^snežilo/*snežilo$^./.<sent>$
+[/TCRklLqasaGS]
+[UJqZO6LusKmx#0] ^Proč/Proč<rel><adv>$ ^pláčeš/*pláčeš$^?/?<sent>$
+[/UJqZO6LusKmx]
+[UXV-aHC88w9X#0] ^silný/silný<adj><sint><ma><sg><voc>/silný<adj><sint><ma><sg><nom>/silný<adj><sint><mi><sg><voc>/silný<adj><sint><mi><sg><nom>/silný<adj><sint><mi><sg><acc>/silný<adj><sint><ma><sg><voc>/silný<adj><sint><ma><sg><nom>/silný<adj><sint><mi><sg><voc>/silný<adj><sint><mi><sg><nom>/silný<adj><sint><mi><sg><acc>$ ^chlap/chlap<n><ma><sg><nom>$
+[/UXV-aHC88w9X]
+[UmEvtOt_lUCJ#0] ^Ony/Prpers<prn><p3><f><pl><nom>$ ^žijí/žít<vblex><impf><pres><p3><pl>$ ^spokojeně/spokojeně<adv><sint>$^./.<sent>$
+[/UmEvtOt_lUCJ]
+[V6PaWJoqBQzF#0] ^Chtěl/Chtít<vblex><impf><past><m><sg>$ ^bych/by<cnjsub>+být<vbser><pres><p1><sg>$^,/,<cm>$ ^ale/ale<cnjcoo>$ ^nemůžu/ne<adv>+moci<vaux><impf><pres><p1><sg>$^./.<sent>$
+[/V6PaWJoqBQzF]
+[VYpr0Oceemul#0] ^pena/*pena$ ^z/z<pr>$ ^vaječných/vaječný<adj><sint><ma><pl><gen>/vaječný<adj><sint><ma><pl><loc>/vaječný<adj><sint><mi><pl><gen>/vaječný<adj><sint><mi><pl><loc>/vaječný<adj><sint><f><pl><gen>/vaječný<adj><sint><f><pl><loc>/vaječný<adj><sint><nt><pl><gen>/vaječný<adj><sint><nt><pl><loc>/vaječný<adj><sint><ma><pl><gen>/vaječný<adj><sint><ma><pl><loc>/vaječný<adj><sint><mi><pl><gen>/vaječný<adj><sint><mi><pl><loc>/vaječný<adj><sint><f><pl><gen>/vaječný<adj><sint><f><pl><loc>/vaječný<adj><sint><nt><pl><gen>/vaječný<adj><sint><nt><pl><loc>$ ^bielkov/*bielkov$
+[/VYpr0Oceemul]
+[VpuZxpgRCqD1#0] ^Únor/Únor<n><mi><sg><nom>/Únor<n><mi><sg><acc>$
+[/VpuZxpgRCqD1]
+[X2q269sBuTwT#0] ^Březen/Březen<n><mi><sg><nom>/Březen<n><mi><sg><acc>/Březen<n><mi><sg><nom>/Březen<n><mi><sg><acc>$
+[/X2q269sBuTwT]
+[XOYUVJCl1tuj#0] ^cudzie/*cudzie$ ^oči/oko<n><nt><pl><voc>/oko<n><nt><pl><nom>/oko<n><nt><pl><acc>$
+[/XOYUVJCl1tuj]
+[YyLjZLoEXt_W#0] ^Vy/Prpers<prn><p2><mf><pl><nom>$ ^jste/být<vbser><pres><p2><pl>$ ^studenti/student<n><ma><pl><voc>/student<n><ma><pl><nom>/student<n><ma><pl><voc>/student<n><ma><pl><nom>$^./.<sent>$
+[/YyLjZLoEXt_W]
+[__9vjVaCUJyK#0] ^On/Prpers<prn><p3><m><sg><nom>$ ^nie/*nie$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^lekár/*lekár$^./.<sent>$
+[/__9vjVaCUJyK]
+[cZrzzCOZkYRB#0] ^Ako/*Ako$ ^sa/*sa$ ^voláš/volat<vblex><impf><pres><p2><sg>$^?/?<sent>$
+[/cZrzzCOZkYRB]
+[dHHCdauC6K3R#0] ^jesenní/*jesenní$ ^listí/listí<n><mi><sg><loc>/listí<n><mi><sg><voc>/listí<n><mi><sg><nom>/listí<n><mi><sg><dat>/listí<n><mi><sg><acc>/listí<n><mi><sg><gen>/listí<n><mi><pl><voc>/listí<n><mi><pl><nom>/listí<n><mi><pl><acc>/listí<n><mi><pl><gen>$
+[/dHHCdauC6K3R]
+[dbzEE86qtUZa#0] ^veľké/*veľké$ ^mestá/*mestá$
+[/dbzEE86qtUZa]
+[eS2PM7RGGrwy#0] ^Vy/Prpers<prn><p2><mf><pl><nom>$ ^ste/*ste$ ^študenti/*študenti$^./.<sent>$
+[/eS2PM7RGGrwy]
+[f6IwiRnQSSW_#0] ^Červenec/Červenec<n><mi><sg><nom>/Červenec<n><mi><sg><acc>/Červenec<n><mi><sg><nom>/Červenec<n><mi><sg><acc>$
+[/f6IwiRnQSSW_]
+[fGAeWSMgnzAe#0] ^My/Prpers<prn><p1><mf><pl><nom>$ ^jsme/být<vbser><pres><p1><pl>$ ^studenti/student<n><ma><pl><voc>/student<n><ma><pl><nom>/student<n><ma><pl><voc>/student<n><ma><pl><nom>$^./.<sent>$
+[/fGAeWSMgnzAe]
+[fwhH_IJjrqWa#0] ^Já/Prpers<prn><p1><mf><sg><nom>$ ^jsem/být<vbser><pres><p1><sg>$ ^student/student<n><ma><sg><nom>/student<n><ma><sg><nom>$^./.<sent>$
+[/fwhH_IJjrqWa]
+[gOITirEgedMm#0] ^Miluji/Milovat<vblex><impf><pres><p1><sg>$ ^tě/prpers<prn><p2><mf><sg><acc>/prpers<prn><p2><mf><sg><gen>$^./.<sent>$
+[/gOITirEgedMm]
+[gqmlDccEkyxG#0] ^Ja/*Ja$ ^som/*som$ ^študent/*študent$^./.<sent>$
+[/gqmlDccEkyxG]
+[gzDoUj8JWU40#0] ^např/např<abbr>$^./.<sent>$
+[/gzDoUj8JWU40]
+[hHydHNlHExAq#0] ^Čo/*Čo$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$^?/?<sent>$
+[/hHydHNlHExAq]
+[hjT9s7oiXNHO#0] ^Říjen/Říjen<n><mi><sg><nom>/Říjen<n><mi><sg><acc>/Říjen<n><mi><sg><nom>/Říjen<n><mi><sg><acc>$
+[/hjT9s7oiXNHO]
+[hkAlafmdotvh#0] ^Ty/To<det><dem><ma><pl><acc>/To<det><dem><mi><pl><nom>/To<det><dem><mi><pl><acc>/To<det><dem><f><pl><nom>/To<det><dem><f><pl><acc>/Prpers<prn><p2><mf><sg><nom>$ ^si/se<prn><ref><dat>$ ^študent/*študent$^./.<sent>$
+[/hkAlafmdotvh]
+[i57ondxD8ASa#0] ^Milujem/Milovat<vblex><impf><pres><p1><pl>$ ^ťa/*ťa$^./.<sent>$
+[/i57ondxD8ASa]
+[i7PyUUN3oRQ2#0] ^Duben/Duben<n><mi><sg><nom>/Duben<n><mi><sg><acc>/Duben<n><mi><sg><nom>/Duben<n><mi><sg><acc>$
+[/i7PyUUN3oRQ2]
+[ibGGAyOIeJEp#0] ^naše/náš<det><pos><ma><pl><acc>/náš<det><pos><mi><pl><nom>/náš<det><pos><mi><pl><acc>/náš<det><pos><f><sg><voc>/náš<det><pos><f><sg><nom>/náš<det><pos><f><pl><voc>/náš<det><pos><f><pl><nom>/náš<det><pos><f><pl><acc>/náš<det><pos><nt><sg><voc>/náš<det><pos><nt><sg><nom>/náš<det><pos><nt><sg><acc>/náš<det><pos><nt><pl><voc>/náš<det><pos><nt><pl><nom>/náš<det><pos><nt><pl><acc>$ ^problémy/problém<n><mi><pl><voc>/problém<n><mi><pl><ins>/problém<n><mi><pl><nom>/problém<n><mi><pl><acc>$
+[/ibGGAyOIeJEp]
+[iuQd9P8DHu0I#0] ^biely/*biely$ ^sneh/*sneh$
+[/iuQd9P8DHu0I]
+[j7IEykYJaEeU#0] ^December/*December$
+[/j7IEykYJaEeU]
+[kqPee7dP0O8d#0] ^Pi/*Pi$ ^vodu/voda<n><f><sg><acc>$^!/!<sent>$
+[/kqPee7dP0O8d]
+[krxu6rnWYtbF#0] ^Listopad/Listopad<n><mi><sg><nom>/Listopad<n><mi><sg><acc>/Listopad<n><mi><sg><nom>/Listopad<n><mi><sg><acc>/Listopad<np><cog><ma><sg><nom>$
+[/krxu6rnWYtbF]
+[l9LDgVyb-Mnc#0] ^Peníze/Peníz<n><mi><sg><voc>/Peníz<n><mi><sg><voc>$^,/,<cm>$ ^nebo/nebo<cnjcoo>/nebo<cnjadv>$ ^život/život<n><mi><sg><nom>/život<n><mi><sg><acc>$^!/!<sent>$
+[/l9LDgVyb-Mnc]
+[l_ReRvZ5MFYo#0] ^Október/*Október$
+[/l_ReRvZ5MFYo]
+[lgiYK2znxqG3#0] ^Apríl/Apríl<n><mi><sg><nom>/Apríl<n><mi><sg><acc>$
+[/lgiYK2znxqG3]
+[m7n0wv1QR3Wg#0] ^Pracujem/Pracovat<vblex><impf><pres><p1><pl>/Pracovat<vblex><impf><pres><p1><pl>$^,/,<cm>$ ^aby/aby<cnjsub>$ ^som/*som$ ^žil/žít<vblex><impf><past><m><sg>$^./.<sent>$
+[/m7n0wv1QR3Wg]
+[mDJk5PsW1Ux0#0] ^Srpen/Srpen<n><mi><sg><nom>/Srpen<n><mi><sg><acc>/Srpen<n><mi><sg><nom>/Srpen<n><mi><sg><acc>$
+[/mDJk5PsW1Ux0]
+[mJp-OksSMMsY#0] ^Budou/Buda<np><top><f><sg><ins>/Být<vbser><fut><p3><pl>$ ^pít/pít<vblex><impf><inf>$ ^vodu/voda<n><f><sg><acc>$^./.<sent>$
+[/mJp-OksSMMsY]
+[mVUCrWaGyiqp#0] ^nejbělejší/nej<adv>+bílý<adj><sint><comp><f><sg><ins>/nej<adv>+bílý<adj><sint><comp><nt><pl><acc>/nej<adv>+bílý<adj><sint><comp><nt><pl><nom>/nej<adv>+bílý<adj><sint><comp><nt><pl><voc>/nej<adv>+bílý<adj><sint><comp><nt><sg><acc>/nej<adv>+bílý<adj><sint><comp><nt><sg><nom>/nej<adv>+bílý<adj><sint><comp><nt><sg><voc>/nej<adv>+bílý<adj><sint><comp><f><pl><acc>/nej<adv>+bílý<adj><sint><comp><f><pl><nom>/nej<adv>+bílý<adj><sint><comp><f><pl><voc>/nej<adv>+bílý<adj><sint><comp><f><sg><gen>/nej<adv>+bílý<adj><sint><comp><f><sg><acc>/nej<adv>+bílý<adj><sint><comp><f><sg><dat>/nej<adv>+bílý<adj><sint><comp><f><sg><nom>/nej<adv>+bílý<adj><sint><comp><ma><sg><voc>/nej<adv>+bílý<adj><sint><comp><f><sg><voc>/nej<adv>+bílý<adj><sint><comp><f><sg><loc>/nej<adv>+bílý<adj><sint><comp><mi><pl><acc>/nej<adv>+bílý<adj><sint><comp><mi><pl><nom>/nej<adv>+bílý<adj><sint><comp><mi><pl><voc>/nej<adv>+bílý<adj><sint><comp><mi><sg><acc>/nej<adv>+bílý<adj><sint><comp><mi><sg><nom>/nej<adv>+bílý<adj><sint><comp><mi><sg><voc>/nej<adv>+bílý<adj><sint><comp><ma><pl><acc>/nej<adv>+bílý<adj><sint><comp><ma><pl><nom>/nej<adv>+bílý<adj><sint><comp><ma><pl><voc>/nej<adv>+bílý<adj><sint><comp><ma><sg><nom>$ ^sníh/*sníh$
+[/mVUCrWaGyiqp]
+[msLE5P3OgYk7#0] ^Ony/Prpers<prn><p3><f><pl><nom>$ ^žijú/*žijú$ ^spokojne/*spokojne$^./.<sent>$
+[/msLE5P3OgYk7]
+[n71_NuFMlOur#0] ^silní/silný<adj><sint><ma><pl><voc>/silný<adj><sint><ma><pl><nom>/silný<adj><sint><ma><pl><voc>/silný<adj><sint><ma><pl><nom>$ ^chlapi/chlap<n><ma><pl><voc>/chlap<n><ma><pl><nom>$
+[/n71_NuFMlOur]
+[ne-lnl_wuVYk#0] ^Kameň/*Kameň$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^môj/*môj$^./.<sent>$
+[/ne-lnl_wuVYk]
+[neb-HXJlna7G#0] ^November/*November$
+[/neb-HXJlna7G]
+[oE5NTyh8dQ4U#0] ^velké/velký<adj><sint><ma><pl><acc>/velký<adj><sint><nt><sg><acc>/velký<adj><sint><nt><sg><nom>/velký<adj><sint><nt><sg><voc>/velký<adj><sint><f><pl><acc>/velký<adj><sint><f><pl><nom>/velký<adj><sint><f><pl><voc>/velký<adj><sint><f><sg><gen>/velký<adj><sint><f><sg><dat>/velký<adj><sint><f><sg><loc>/velký<adj><sint><mi><pl><acc>/velký<adj><sint><mi><pl><nom>/velký<adj><sint><mi><pl><voc>/velký<adj><ma><pl><acc>/velký<adj><nt><sg><acc>/velký<adj><nt><sg><nom>/velký<adj><nt><sg><voc>/velký<adj><f><pl><acc>/velký<adj><f><pl><nom>/velký<adj><f><pl><voc>/velký<adj><f><sg><gen>/velký<adj><f><sg><dat>/velký<adj><f><sg><loc>/velký<adj><mi><pl><acc>/velký<adj><mi><pl><nom>/velký<adj><mi><pl><voc>$ ^město/město<n><nt><sg><voc>/město<n><nt><sg><nom>/město<n><nt><sg><acc>$
+[/oE5NTyh8dQ4U]
+[oNZ_t-ZaLKa0#0] ^Co/Co<rel><an><nt><sg>/Co<prn><itg><nt><sg><nom>/Co<prn><itg><nt><sg><acc>/Co<det><itg><nt><sg><nom>/Co<det><itg><nt><sg><acc>$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$^?/?<sent>$
+[/oNZ_t-ZaLKa0]
+[olpNPvi9q5AJ#0] ^To/To<det><dem><nt><sg><nom>/To<det><dem><nt><sg><acc>$ ^som/*som$ ^ja/*ja$^./.<sent>$
+[/olpNPvi9q5AJ]
+[pNrPywGgcZ8U#0] ^Pij/Pít<vblex><impf><imp><p2><sg>/Pít<vblex><impf><imp><emph><p2><sg>$ ^vodu/voda<n><f><sg><acc>$^!/!<sent>$
+[/pNrPywGgcZ8U]
+[pQeULXETOn5e#0] ^Ty/To<det><dem><ma><pl><acc>/To<det><dem><mi><pl><nom>/To<det><dem><mi><pl><acc>/To<det><dem><f><pl><nom>/To<det><dem><f><pl><acc>/Prpers<prn><p2><mf><sg><nom>$ ^jsi/být<vbser><pres><p2><sg>$ ^student/student<n><ma><sg><nom>/student<n><ma><sg><nom>$^./.<sent>$
+[/pQeULXETOn5e]
+[pYNDlxMwyMTC#0] ^Idem/Id<n><mi><sg><ins>/Ido<n><nt><sg><ins>$ ^tam/tam<adv>$^,/,<cm>$ ^pretože/*pretože$ ^chcem/*chcem$^./.<sent>$
+[/pYNDlxMwyMTC]
+[pm2JcOVpqUQj#0] ^August/August<n><ma><sg><nom>/Augusta<np><ant><f><pl><gen>$
+[/pm2JcOVpqUQj]
+[q7MuQC3QLdm1#0] ^Květen/Květen<n><mi><sg><nom>/Květen<n><mi><sg><acc>/Květena<n><f><pl><gen>$
+[/q7MuQC3QLdm1]
+[qL2feHseWj2Q#0] ^To/To<det><dem><nt><sg><nom>/To<det><dem><nt><sg><acc>$ ^sme/*sme$ ^my/prpers<prn><p1><mf><pl><nom>$^./.<sent>$
+[/qL2feHseWj2Q]
+[qUm_2kh8yL4T#0] ^Já/Prpers<prn><p1><mf><sg><nom>$ ^žiji/žít<vblex><impf><pres><p1><sg>$ ^spokojeně/spokojeně<adv><sint>$^./.<sent>$
+[/qUm_2kh8yL4T]
+[qhVdvTSqoReL#0] ^pěna/pěna<n><f><sg><nom>/pěna<n><f><sg><nom>$ ^z/z<pr>$ ^vaječných/vaječný<adj><sint><ma><pl><gen>/vaječný<adj><sint><ma><pl><loc>/vaječný<adj><sint><mi><pl><gen>/vaječný<adj><sint><mi><pl><loc>/vaječný<adj><sint><f><pl><gen>/vaječný<adj><sint><f><pl><loc>/vaječný<adj><sint><nt><pl><gen>/vaječný<adj><sint><nt><pl><loc>/vaječný<adj><sint><ma><pl><gen>/vaječný<adj><sint><ma><pl><loc>/vaječný<adj><sint><mi><pl><gen>/vaječný<adj><sint><mi><pl><loc>/vaječný<adj><sint><f><pl><gen>/vaječný<adj><sint><f><pl><loc>/vaječný<adj><sint><nt><pl><gen>/vaječný<adj><sint><nt><pl><loc>$ ^bílků/bílek<n><mi><pl><gen>$
+[/qhVdvTSqoReL]
+[qrMFB_MjgWzx#0] ^bělejší/bílý<adj><sint><comp><f><sg><ins>/bílý<adj><sint><comp><nt><pl><acc>/bílý<adj><sint><comp><nt><pl><nom>/bílý<adj><sint><comp><nt><pl><voc>/bílý<adj><sint><comp><nt><sg><acc>/bílý<adj><sint><comp><nt><sg><nom>/bílý<adj><sint><comp><nt><sg><voc>/bílý<adj><sint><comp><f><pl><acc>/bílý<adj><sint><comp><f><pl><nom>/bílý<adj><sint><comp><f><pl><voc>/bílý<adj><sint><comp><f><sg><gen>/bílý<adj><sint><comp><f><sg><acc>/bílý<adj><sint><comp><f><sg><dat>/bílý<adj><sint><comp><f><sg><nom>/bílý<adj><sint><comp><ma><sg><voc>/bílý<adj><sint><comp><f><sg><voc>/bílý<adj><sint><comp><f><sg><loc>/bílý<adj><sint><comp><mi><pl><acc>/bílý<adj><sint><comp><mi><pl><nom>/bílý<adj><sint><comp><mi><pl><voc>/bílý<adj><sint><comp><mi><sg><acc>/bílý<adj><sint><comp><mi><sg><nom>/bílý<adj><sint><comp><mi><sg><voc>/bílý<adj><sint><comp><ma><pl><acc>/bílý<adj><sint><comp><ma><pl><nom>/bílý<adj><sint><comp><ma><pl><voc>/bílý<adj><sint><comp><ma><sg><nom>$ ^sníh/*sníh$
+[/qrMFB_MjgWzx]
+[r2tgCf34Wwpc#0] ^cizí/cizí<adj><f><sg><nom>/cizí<adj><ma><sg><nom>/cizí<adj><ma><pl><voc>/cizí<adj><ma><pl><nom>/cizí<adj><ma><pl><acc>/cizí<adj><mi><sg><voc>/cizí<adj><mi><sg><nom>/cizí<adj><mi><sg><acc>/cizí<adj><mi><pl><voc>/cizí<adj><mi><pl><nom>/cizí<adj><mi><pl><acc>/cizí<adj><f><sg><loc>/cizí<adj><f><sg><voc>/cizí<adj><f><sg><ins>/cizí<adj><ma><sg><voc>/cizí<adj><f><sg><dat>/cizí<adj><f><sg><acc>/cizí<adj><f><sg><gen>/cizí<adj><f><pl><voc>/cizí<adj><f><pl><nom>/cizí<adj><f><pl><acc>/cizí<adj><nt><sg><voc>/cizí<adj><nt><sg><nom>/cizí<adj><nt><sg><acc>/cizí<adj><nt><pl><voc>/cizí<adj><nt><pl><nom>/cizí<adj><nt><pl><acc>/cizí<adj><f><sg><nom>/cizí<adj><ma><sg><nom>/cizí<adj><ma><pl><voc>/cizí<adj><ma><pl><nom>/cizí<adj><ma><pl><acc>/cizí<adj><mi><sg><voc>/cizí<adj><mi><sg><nom>/cizí<adj><mi><sg><acc>/cizí<adj><mi><pl><voc>/cizí<adj><mi><pl><nom>/cizí<adj><mi><pl><acc>/cizí<adj><f><sg><loc>/cizí<adj><f><sg><voc>/cizí<adj><f><sg><ins>/cizí<adj><ma><sg><voc>/cizí<adj><f><sg><dat>/cizí<adj><f><sg><acc>/cizí<adj><f><sg><gen>/cizí<adj><f><pl><voc>/cizí<adj><f><pl><nom>/cizí<adj><f><pl><acc>/cizí<adj><nt><sg><voc>/cizí<adj><nt><sg><nom>/cizí<adj><nt><sg><acc>/cizí<adj><nt><pl><voc>/cizí<adj><nt><pl><nom>/cizí<adj><nt><pl><acc>$ ^oči/oko<n><nt><pl><voc>/oko<n><nt><pl><nom>/oko<n><nt><pl><acc>$
+[/r2tgCf34Wwpc]
+[rHg9eBOHkelw#0] ^velká/velký<adj><f><sg><voc>/velký<adj><f><sg><nom>/velký<adj><nt><pl><voc>/velký<adj><nt><pl><nom>/velký<adj><nt><pl><acc>/velký<adj><sint><f><sg><voc>/velký<adj><sint><f><sg><nom>/velký<adj><sint><nt><pl><voc>/velký<adj><sint><nt><pl><nom>/velký<adj><sint><nt><pl><acc>$ ^města/město<n><nt><sg><gen>/město<n><nt><pl><voc>/město<n><nt><pl><nom>/město<n><nt><pl><acc>$
+[/rHg9eBOHkelw]
+[s4Fhq0mNSRMq#0] ^jesenné/*jesenné$ ^lístie/*lístie$
+[/s4Fhq0mNSRMq]
+[sdbOeu4gi3vi#0] ^To/To<det><dem><nt><sg><nom>/To<det><dem><nt><sg><acc>$ ^jsem/být<vbser><pres><p1><sg>$ ^já/prpers<prn><p1><mf><sg><nom>$^./.<sent>$
+[/sdbOeu4gi3vi]
+[sit32HcIhPY-#0] ^Kto/*Kto$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$^?/?<sent>$
+[/sit32HcIhPY-]
+[t257Os-OoU5R#0] ^Toto/Toto<det><dem><nt><sg><nom>/Toto<det><dem><nt><sg><acc>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^moja/můj<prn><pos><f><sg><nom>/můj<det><pos><f><sg><nom>$ ^mačka/*mačka$^./.<sent>$
+[/t257Os-OoU5R]
+[t4Mkz2PfQ3ps#0] ^Budú/*Budú$ ^piť/*piť$ ^vodu/voda<n><f><sg><acc>$^./.<sent>$
+[/t4Mkz2PfQ3ps]
+[t5qrTcAm9zLg#0] ^Leden/Leden<n><mi><sg><nom>/Leden<n><mi><sg><acc>$
+[/t5qrTcAm9zLg]
+[tYcBX-VoWkMv#0] ^Február/*Február$
+[/tYcBX-VoWkMv]
+[tkMEN71XPF18#0] ^Máj/Máj<n><mi><sg><nom>/Máj<n><mi><sg><acc>$
+[/tkMEN71XPF18]
+[tqI1CGfaV-Fm#0] ^Kniha/Kniha<n><f><sg><nom>$ ^sa/*sa$ ^číta/*číta$^./.<sent>$
+[/tqI1CGfaV-Fm]
+[uqfvKgMmL5Jc#0] ^Špenát/Špenát<n><mi><sg><nom>/Špenát<n><mi><sg><acc>$ ^jsem/být<vbser><pres><p1><sg>$ ^nesnášel/*nesnášel$^./.<sent>$
+[/uqfvKgMmL5Jc]
+[us2h-OFczRer#0] ^Ja/*Ja$ ^žijem/žít<vblex><impf><pres><p1><pl>$ ^spokojne/*spokojne$^./.<sent>$
+[/us2h-OFczRer]
+[vTXfrReUc-VK#0] ^veľké/*veľké$ ^mesto/*mesto$
+[/vTXfrReUc-VK]
+[vYhIopL7lw2U#0] ^Koľko/*Koľko$ ^prstov/*prstov$ ^vidíš/vidět<vblex><impf><pres><p2><sg>$^?/?<sent>$
+[/vYhIopL7lw2U]
+[v_u9tZz1P009#0] ^Prosinec/Prosinec<n><mi><sg><nom>/Prosinec<n><mi><sg><acc>/Prosinec<n><mi><sg><nom>/Prosinec<n><mi><sg><acc>$
+[/v_u9tZz1P009]
+[vbZVHFYyMR1J#0] ^Jím/Jíst<vblex><impf><pres><p1><sg>/Prpers<prn><p3><m><sg><ins>$ ^a/a<cnjcoo>$ ^spím/*spím$^./.<sent>$
+[/vbZVHFYyMR1J]
+[w0wAudLCo0DY#0] ^On/Prpers<prn><p3><m><sg><nom>$ ^je/být<vbser><pres><p3><sg>/prpers<prn><p3><mf><pl><acc>$ ^student/student<n><ma><sg><nom>/student<n><ma><sg><nom>$
+[/w0wAudLCo0DY]
+[wVLz0BvhN_69#0] ^Jdu/Jít<vblex><impf><pres><p1><sg>$ ^tam/tam<adv>$^,/,<cm>$ ^poněvadž/poněvadž<cnjadv>$ ^chci/chtít<vblex><impf><pres><p1><sg>$^./.<sent>$
+[/wVLz0BvhN_69]
+[xA7kYi6HsCUb#0] ^bílá/bílý<adj><sint><f><sg><voc>/bílý<adj><sint><f><sg><nom>/bílý<adj><sint><nt><pl><voc>/bílý<adj><sint><nt><pl><nom>/bílý<adj><sint><nt><pl><acc>$ ^kost/kost<n><f><sg><nom>/kost<n><f><sg><acc>$
+[/xA7kYi6HsCUb]
+[xjy1HmRLvFgp#0] ^Júl/*Júl$
+[/xjy1HmRLvFgp]
+[xkxsgpY85tkK#0] ^On/Prpers<prn><p3><m><sg><nom>$ ^není/ne<adv>+být<vbser><pres><p3><sg>$ ^lékař/lékař<n><ma><sg><nom>/lékař<n><ma><sg><nom>$^./.<sent>$
+[/xkxsgpY85tkK]
+[yTi1uyWaZqdh#0] ^Prečo/*Prečo$ ^plačeš/*plačeš$^?/?<sent>$
+[/yTi1uyWaZqdh]
+[y_tNZrkJ_pyq#0] ^Oni/Prpers<prn><p3><ma><pl><nom>$ ^sú/*sú$ ^študenti/*študenti$^./.<sent>$
+[/y_tNZrkJ_pyq]
+[ylg7BcL6LhN7#0] ^To/To<det><dem><nt><sg><nom>/To<det><dem><nt><sg><acc>$ ^jsme/být<vbser><pres><p1><pl>$ ^my/prpers<prn><p1><mf><pl><nom>$^./.<sent>$
+[/ylg7BcL6LhN7]
+[z-NSnH38bKqD#0] ^Január/*Január$
+[/z-NSnH38bKqD]
+[zVWeoKvKCF7x#0] ^September/*September$
+[/zVWeoKvKCF7x]
+[zcytftxSVoI5#0] ^Mě/Prpers<prn><p1><mf><sg><acc>/Prpers<prn><p1><mf><sg><gen>$ ^to/to<det><dem><nt><sg><nom>/to<det><dem><nt><sg><acc>$ ^nezajímá/ne<adv>+zajímat<vblex><impf><pres><p3><sg>$^./.<sent>$
+[/zcytftxSVoI5]
